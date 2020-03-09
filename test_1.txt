@@ -1,0 +1,222 @@
+We are talking about design of axial flow compressors .
+Now , axial flow compressor , as we have seen , is normally used in aircraft engines in a multi-stage configuration .
+So , you have number of stages that need to be lined up in a manner , that together they produce a certain aggregate compression ratio that caters to the need of a particular engine under various operating conditions .
+Now , when you are designing this axial flow compressors , which is indeed a mechanical device and we have stated before , that it is a basically an aerodynamic machine .
+Now , designing this aerodynamic machine requires certain knowledge of aerodynamics , which is what we have been talking about in this lecture series .
+Now , in the last class we have seen , that when you try to line up a number of compressor stages , one of the things you would need to do is create a flow track , the flow track that would encase the entire compressor and would create the general shape of the duct through which the flow would proceed through the compressors from the beginning till the end of the compression process .
+Now , this passage through the compressor is thus encased inside this flow track , the inside of which is , of course , of the hub of the shaft of the engine and the outside is the casing of the engine .
+And the design of this flow track is an important issue as far as the actual flow compressor design is concerned .
+Now , this flow track has , of course the multi-stage figuration inside it and this multi stage figuration may have a low spool flow compressor and high spool compressor , sometimes you may have an intermediate spool compressor ; that means , three spools .
+So , there are various possibilities , which we have discussed before and for all of them you would need to create some kind of a flow track .
+Once you have some kind of a flow track and some idea what are the sizes of the various stages , that means , what is the tip diameter and what is the hub diameter , if some of those things started falling in to place , you can initiate the process of designing the individual stages of compressor and the individual blade rows , that actually does the job of compression .
+Now , designing the individual blade rows , we use the theories that we have done in this course before , including the two-dimensional flow theories .
+The understanding that we got from the three-dimensional flow through axial flow compressors and putting it all together , we try to understand how design process can be proceeded with to create blade shapes for the rotor , as well as for the stator , which together as we know , create the axial flow compressor stage .
+Later on , in this lecture series , we will have a look at the various processes of computational flow dynamics , which are used very extensibility over the last 20 years in design of axial flow compressors and immediate post-design analysis that feeds back into the design .
+So , a design is not considered as complete till it has gone through good amount of computational flow dynamic analysis and only after that a design is considered to have been completed in a certain manner , so that it can be taken for prototype making and then , rig testing for finally deciding , that this design is ok .
+So , that process is something , which starts with a first-cut design of axial flow compressor .
+Now , this first-cut design is what we are going to discuss in today ’ s lecture .
+Now , let us take a look at what are the issues that are involved in using the theory that we have done in this course .
+We are going to use the theory that we have done in this course and bring that forth in the process of design of rotor and stator .
+I will give you the steps , the step by step procedure by which you can start designing blades from scratch .
+That means , what there was nothing , you can start creating blades and after that , of course , as I mentioned , you have to take it to some kind of analysis , preferably computational fluid dynamics , CFD analysis , so that the design gets more and more refined .
+And nowadays , the refinement of design produces compressors of efficiencies , compressor stages of efficiency , which are of the order of 90 percent or more ; before the CFD analysis was available as a design tool , the compressor efficiencies were 5 to 6 points lower .
+And this , you know , upgradation of the efficiencies is possible , has been possible due to the aid of CFD tools , that are made available to the compressor designers .
+So , we will be looking in to the CFD of various compressors and turbines towards the end of this lecture series and at that point , we will see , what are the possibilities or capabilities of CFD .
+At this moment , in today ’ s lecture , we just look at the theories , that we have done already , the two-dimensional and the three-dimensional understanding and try to put it together into a compact , a neat handy methodology by which you can start creating blades and blade shapes for rotors and stators .
+So , let us go through this process , which gives you a first-cut tool for creating blade shapes .
+If you look at the blade , you typically see that they are made up of a number of aerofoil sections , which have been stacked up to create a blade .
+Now , these aerofoil sections , as we have seen , let us say , from root to tip of a blade are made up of different aerofoil sections , in the sense , our fundamental understanding tells us , that the aerofoil required at the root would be of higher camber , the aerofoil required at the tip would be of much lower camber and as a result , when you start from the root to tip , quite often the camber of the blade is actually changing , which means , they are different aerofoils .
+So , it is not , that you can take one airfoil and stack them up from root to tip , you actually have different aerofoils .
+In a modern action axial flow compressors , it is entirely possible , that you not only have different aerofoils , you need to have different aerofoils fundamentally , not only because they are of a higher or lower camber , also because the flow going into the root may be of a subsonic ; flow going into the mean may be near transonic flow and going into the tip of the blade could be clearly supersonic flow .
+So , which means , you need to cater this kind of inlet flow from subsonic to supersonic , which means , at the root we would need to use typically subsonic blade ; at the mean , you may like to use one of those super critical blades or CD aerofoils and at the tip , you may like to go for clear transonic aerofoils .
+So , one single blade may have three completely different families of aerofoils put together and remember , at the end of it , that blade must have smooth shape .
+You cannot afford to have any wrinkles on the blade surface .
+The blade surfaces , both the surfaces would have to be absolutely smooth from root to tip .
+So , which means , putting together different aerofoils and creating one single blade is not something that you would do in one shot , it requires a number of iterations , it requires very fine geometric modeling , which we are actually not going to talk about because that is a separate engineering capability , that need to bring in , only after that you have a blade , that is aerodynamically acceptable for performance .
+So , the blade that you , for example , would like to send for CFD analysis , would have to be a smooth blade even if it is composed of different kinds of and different families of aerofoils .
+So , typically , a blade is designed at various sections of the blade .
+So , as we see in this diagram here , that we have a typical blade made up of large number of aerofoils , may be something like 10 or 15 aerofoils and these aerofoils are stacked up from root to tip .
+And in the process of stacking up , one of the things you have to ensure is , that they actually create , finally , smooth blade surface .
+As we have seen , the blade at the root , not only little of different camber , it is likely to be after different blade setting angle or stager angle , whereas the one at the root is mostly like to have a low camber and at a much higher stager angle .
+So , when you put them together , you get a twisted blade and this twisted blade would have to be , again a smooth blade surface .
+So , it is something that is arrived at after a number of iterations and probably very fine geometric modeling .
+Some of the modeling tools , that are available , tools like Catia for example , need to be used to create such smooth blades shapes .
+Now , let us see where we are all need to start .
+We need to start at the fact , that you are designing an individual stage ; you start with the fact that the stage needs to do certain amount of work .
+This work is being supplied by the turbine and this is the amount of work , minimum work that needs be supplied by the turbine .
+So , w , theoretical work is equal to , as we have seen , C w 1 minus C w 2 by into U at the mean , now this gives you the ideal amount of work or the minimum amount of work that has to be put in to effect the change in whirl component .
+If the blade is operating at blade velocity U , at that particular section , so what we have on the right hand side are our well known velocity triangles that you have done before representing a particular section , which could be hub , the root section or the mean section or the tip section or any other section .
+So , for every section , you need to have this whole set of vector diagrams or velocity diagrams and the rotor and stator of that particular section , radial station and at that particular radial station , you are required to find out what is the work done .
+Now , work done , when we are talking about specific work , so the relationship that we have here in front of us is for the specific work , so specific work , that is work done per unit mass flow through this particular section , is so much .
+Now , as a result of that , one can say that mean C w through this blade is C w 1 plus C w 2 divided by 2 and that is the mean C w operating on this rotor row ; on this rotor row , let us say , ok . Now , this if we say , that we are designing a blade with a free vortex law .
+Now , this is something you would need to invoke right in the beginning , what vortex law you would like to use .
+We have done various kinds of vortex laws , starting with the free vortex law , which is the simplest and indeed the oldest of the whole lot and if you say , that you are designing a free vortex design , then it tends to reason , that you would like to invoke the free vortex law , which is C wm into r equal to constant .
+Now , you can invoke free vortex law , either at the mean of the rotor blade or you may like to invoke it at the exit of the rotor blade , you can theoretically invoke it at the entry to the rotor blade , but normally it is not done , because the free vortex characteristic is acquired by the flow only when the flow goes to the rotor .
+When it is entering the rotor , it is entirely possible , it is most possible , that the value of C w is constant , that is , C w 1 is constant from root to tip , it is entirely possible or it may have some other nature of variation , which may or may not be free vortex .
+So , theoretically , you can have free vortex variation at the entry , at the exit and then , certainly at the mean of the passage .
+Having invoked the free vortex law , you can now say , that the free vortex allows you the variation along the blade length .
+So , at any blade length , you can find out the value of C w invoking the free vortex law that is indeed , the utility of the free vortex law .
+By having arrived at the C w 1 , you can now conjoin with C a 1 , which is incoming actual velocity at that particular station and the product of the two , a combination vectorial addition of the two , gives you C 1 , that is the entry absolute velocity and having obtained the entry absolute velocity , you can quickly find out what is the entry absolute flow angle or which , if we look at the diagram is alpha 1 over here .
+So , what we are trying to find out by using certain variation of C w 1 , what is the value of C 1 and what is the angle of 1 , alpha 1 at which this particular flow is entering the rotor blade row ?
+Now , this is of course , of value U , which you get from solid body relationship and that is the blade speed at that particular section U 1 r . Correspondingly , now you can find out the relative flow angle going into the blade and this of course , as we know , is found from the velocity triangle .
+Again , if we look at the velocity triangle , this is the beta 1 , that you are finding right now , U 1 is what you get at that particular station from solid bodies , C w 1 got from free vortex or any other law and product of all that is finally , you are getting the value of beta 1 , the angle at which the flow is going into the rotor in relative frame of reference .
+So , beta 1 is a relative flow angle with which the flow is going to go into the rotor .
+So , the rotor will have to be designed to allow the flow entering into the rotor at angle beta 1 , the rotating row response to the angle beta 1 , it does not respond to the angle alpha 1 , it has no relation with alpha 1 .
+The rotating row of blades responds to the flow coming in at an angle beta 1 .
+Correspondingly , the relative velocity of course , can be found out as per the velocity triangle using the values , that axial velocity and the relative velocity that we have found .
+Correspondingly , we can now try to find out what the exit velocity could possibly be U 2 , which again could be found from a sold body relationship .
+Now , if we are designing a blade at which diameter is constant across the entire stage , which means , diameter at the entry of that particular section , at the entry of the stage , is same as the diameter at the exit of the stage for that particular section .
+That means , the section is a constant diameter or a constant radius section through the stage , then we can say , that U 1m is equal to U 2m and this is something , which one has to decide a priory because it is possible , that in some of the modern compressors , which we shall discuss today a litter later , the exit diameter may not be same .
+If you take the section on a meridianal plane and not on a constant radius plane , so if you take it on a meridianal path U 2 would be different from U 1 and the design would proceed along the meridianal path , not along the constant radius path .
+So , at the moment we are looking at a constant radius or a constant diameter section on which the design has been projected .
+Now , the C w 2 , which is the exit whirl component or the rotational component of the fluid flow , can be found out from the free vortex law .
+Now , having found the exit whirl component or rotational component , one of the things that need to be quickly checked is the degree of reaction and this degree of reaction can be found from very simple relationship .
+Now , we know , that the degree of reaction should never be 0 anywhere on the blade or definitely , never be less than 0 anywhere on the rotor blade .
+The 0 reaction blade of course , gives you the impulse rotor and less than 0 of course , would create situation , where the compressor would start behaving like a turbine , so we have to keep an eye on degree of reaction .
+We have also seen while defining degree of reaction that it is by definition a twodimensional parameter .
+So , we are proceeding along a two-dimensional sectional , design section by section , aerofoil design and hence , degree of reaction is a valid tool with which you can possibly check your design at this stage , whether you have got a degree of reaction , that is satisfying to your design intent .
+Now , we have seen earlier , that you can have a degree of reaction , a 0.5 or you can have a degree of reaction of 1 .
+The two extreme possibilities , that compressor designers have often used , the 0.5 degree of reaction gives you , what is known as , symmetrical blading .
+All those things you have done before , those are simple design procedures , which people have adopted before successfully .
+And blades made of symmetrical blading or blades made of degree of reaction , one has been successfully used in various gas turbine engines , including aero-engines .
+The modern designers are more flexible , they would like to have more flexibility and probably , along with that more control over what is happening through the stages , they do not want to be straight jacketed with some numbers .
+So , most of the modern compressors do have degree of reactions , which are variable substantially and if you have invoked vortex law , free vortex or any of those near free vortex laws , then it is entirely possible , the degree of reaction is varying from root to tip , unless you go for a constant degree of reaction blading ; degree of reaction would indeed vary from root to tip and that variation is something you would like to have control over .
+So , modern designers would like to have control over this variation of degree of reaction from root to tip and this has to be exercised at this stage of design .
+So , you would like to know what is happening to the degree of reaction because that has a backward implication on the values , that we have just computed , the values of C w 2 , the values of alpha 1 , beta 1 , alpha 2 , beta 2 , all those things would be impacted by degree of reaction .
+Now , if we look at what we are talking about , that if you have a 100 percent reaction blading , you get rotor blades , which would probably look like this ; you get stator blades and get rotor blades , which are highly staggered .
+So , if you have 100 percent reaction design and if you look at the 50 percent reaction design , you would see that they look very different .
+So , while looking at the blades you can probably make a guess , whether it is 50 percent reaction design or a 50 percent , 100 percent reaction design .
+So , degree of reaction would indeed make the blades look very different ; they would make the rotors look different .
+They would have the stagers , stagers , of the rotors at different angles , very different angles significantly and identifiably different angles compared to 50 percent reaction bladings .
+So , this is just to demonstrate to you that if you actually used different reaction bladings , especially at the mean radius where you start your design , the blades would indeed look quite different from each other .
+Under certain circumstances , if you like to choose a certain degree of reaction it is entirely possible , that you may like to have an inlet guide vanes , especially if it is a 1st stage and that inlet guide vane is then necessitated by the choice of the degree of reaction and your design choice .
+So , inlet guide vane is often used , especially in the 1st stage of a multi-stage compressor necessitated by the design of the 1st stage and depending quite often on the choice of degree of reaction .
+If we proceed with the steps , that we are going through we can now see , that one of the assumptions , that you may like to make at this stage for simple design procedure is that the axial velocity through the stage is remaining constant at that particular section .
+So , we have seen that axial velocity from root to tip may vary in certain manner and it will vary along the stages .
+On the other hand , here we are making an assumption that axial velocity is constant across the stage ; that means , through the stage it is kind of constant .
+The other way of tackling this actual change of parameters is through a parameter known as AVDR , which is short of axial velocity density ratio .
+As you can see , as it is defined here , it is the ratio of axial velocity and density at the entry to axial velocity and density at the exit of the stage or even at the exit of the rotor , across the rotor and quite often , this axial velocity density ratio is held 1 , rather than the actual velocity itself .
+So , now , this if you can quickly look at this definition , it is nothing but mass flow per unit area .
+So , you are trying to hold mass flow by unit area constant across the blade row or across the stage .
+So , that is one way of making an axial change of parameters in a certain restricted manner instead of the most simplistic one , which is holding just axial velocity constant across the stage .
+So , there are two ways most modern designers would like to invoke a certain value of AVDR , which is not necessarily exactly 1 , it could be little more than 1 or little less than 1 and the designer imposes , that value on the design and proceeds with the design , so that he gets the compressor performing a certain compression ratio to his own requirement and not restricted by the simplistic assumption , that we are talking about .
+Now , the velocity or the relative velocity , that we know through the rotor , theoretically it has three possibilities , the exit of the rotor velocity is less than the entry relative velocity or the two relative velocities are equal to each other , and that the exit relative velocity is more than the entry relative velocity , we can quickly discuss this .
+Most compressors would like to have diffusion through the rotor , certain amount of diffusion , whatever is possible , and if you have diffusion through the rotor , the relative velocity would indeed decrease through the rotor and in which case V 2 would be less than V 1 .
+So , this is normally or generally accepted notion with which the compressors are designed .
+V 2 being equal to V 1 is rarely used because that produces what is , what can be called impulse kind of a rotor and our almost compressors are not really impulse , turbines are impulse turbines , but most compressors are normally not impulse compressors , even though theoretically it is possible , that they can be impulse compressors .
+On the other hand , if you have some kind of a transonic fan design , it is possible , that the exit velocity is marginally more than the entry velocity and this is because the lot of work transaction has taken place .
+And this work transaction has not been possible to fully convert to pressure in the relative frame and as a result , the exit relative velocity is marginally higher than the entry relative velocity because work or energy has been put in the flow while passing through the rotor blade .
+So , this is a possibility that sometimes may be necessary to be used in especially in transonic or supersonic blade design .
+Now , the exit angle , flow angles can be also found using the whirl component and the axial components and the relative flow angle can also be found by using the blade velocity , the whirl component and the axial component by using the simple trigonometric relationship and if you do that , you would get the delta beta , which is the flow turning angle through the blade , that is , beta 2 minus beta 1 at the station r . Now , this is the delta beta that is all important value because this actually dominates or tells us , how much work is possible through this particular blades section .
+So , delta beta has to be decided by the designer as early as possible .
+We have also seen and we shall see that there are limitations on the value of delta beta through the compressor stages ; you cannot have very high values like you have in probably in turbines .
+So , the compressor delta beta has certain limitations .
+On the other hand , you want delta beta because those are the flow timings that produces the work or produces the transaction of work from blade to the fluid .
+So , delta beta is an all important parameter , that needs to be decided by the designer section by section and as we know , delta beta will vary from root to tip substantially to produce a twisted differentially camber blade from root to tip .
+The exit velocity can be found and this exit velocity has to be decided , whether you want it subsonic or supersonic , depending on whether you want stator to go supersonic or subsonic .
+So , one has to decide , the designer has decided what should be this value , so that you also get a value of C 2 , which designer has to decide whether it should be supersonic or subsonic .
+Now , the flow turning angle we get does get influenced by the angle of incidence that is coming on to the blade .
+Let us take a quick look at the velocity triangle .
+Now , the flow coming in to the rotor at an angle beta 1 while it is entering the blade row , it is entirely possible , that it may have a very small angle subtended with the tangent to the camber at the leading edge of the blade .
+Now , that is what we have earlier defined as incidence .
+Now , this incidence at the design point of the blade , as we have discussed in the last class , we have to fix a design point and at the design point , this incidence has to be assigned , it has to be decided by the designer .
+It is not something , that is allowed to happen in arbitrary manner , the incidence has to be decide , decided at the designer point and typically , the incidences near the tips are often , are somewhat a little on the negative incident side and at the root they are on the positive incident side .
+The reason they are given a little on the negative at the tip is because we have seen earlier and we know , that the tip is the blade that is amenable to stall .
+Now , when the blade stalls , the tip is the , what goes or stalls first .
+Now , tip stall is what promotes the rotor stall or a stage stall or a compressor stall .
+Now , the reason the tip stall is because the incidence of the flow going into the tip has gone to a high incidence angle .
+To safe guard that possibility , if you start with the design in which the design incidence is slightly negative , so when the incidence starts raising with the change of mass flow or with the change of blade speed , other rotating speed , the , it , it has a margin of safety because it , starting from a small negative value and as a result , that gives the margin a safety before it finally , goes to stall .
+So , it gets a margin of safety and hence it is not liable to solve so easily and that is the reason , why designers often start off with the design value , which is marginally negative .
+On the other hand , at the root , you do not need to normally roots ( ( ) ) .
+Of course , roots can stall not that it cannot stall , but normally the root does not assign with a safety margin like at the root , at the tip and as a result , it is often starting with a value of 1 to 2 degree , so that it gets a reasonable value of performance coefficience , like lift coefficient .
+Now , at this stage it is now necessary to choose the solidity of the blade or what is the spacing of the blade , this is the important parameter that needs to be chosen at the design stage .
+The solidity varies from root to tip and it is not a fixed parameter , and as result of which you need to choose the solidity .
+Now , these are some of the typical plots , that have been arrived at through extensive two-dimensional cascade studies , is that you have done in this course earlier and those cascades studies have produced these kinds of cascade or blade characteristics .
+The designer of compressors needs blade characteristics in cascade form in which solidity is a parameter .
+A compressors designer has really speaking no use for an aerofoil characteristic ; what he requires is indeed cascade characteristics .
+So , this is the kind of cascade characteristic , that designer would need to have for the particular kind of aerofoil that he has or that he intends to use .
+So , any aerofoil that intends to use its cascade characteristics should be available to designer , if you does not have it , he cannot possibly proceed with the designer .
+So , this is the kind of characteristic and c / s is the solidity and you can see , with the variation of solidity the delta beta or delta alpha , in case of stators , that you can achieve with values of exit flow angle beta 2 or alpha 2 , in case of stators it varies with solidity , it depends on solidity .
+So , what solidity value you choose ?
+You can indeed choose intermediate values , you do not have to choose only 0.5 or 1 or 2 , you can indeed choose intermediate values , but that well give you an idea , prima-facie a first cut idea based on two-dimensional cascade understanding how much delta beta , that particular blade section can actually produce .
+So , we have designed a value of delta beta from the earlier design process steps , whether this delta beta can actually be produced in actual operation can be checked through the cascade data for the particular kind of aerofoil and then you decide the solidity .
+Once you have decided the solidity , the next thing you can do is check a certain other parameters , which we have shown here .
+One is a Mach number based parameter with the flow coefficient , which is typically a loading parameter , often is called a loading parameter , and other is the degree of reaction parameter with the normalized by-flow coefficient and this is done with solidity .
+So , as you can see here , choice of solidity does determine those parameters or figures of merit for the particular design in U , that is shown here is actually some kind of a normalized blade velocity , hence it is called something like a Mach number , but it is not really a Mach number , it is the blade velocity , that is normalized by the local speed of sound and that is used as a figure of merit for blade loading and this is of course , the relative Mach number going into the rotor .
+So , for rotors , the choice of solidity is can be decided by this figure of merit of Mach numbers and the degree of reaction that or that ought to have been decided earlier .
+So , blade solidity is a parameter that needs to be decided out of these kinds of plots , that needs to be available to the designers .
+If you choose the incidence the way we were talking about , then your solid body of the blade would need to be set at an angle , which is then beta 1 plus the incidence and that becomes the solid incoming blade angle or the inlet blade angle at the entry to the blade .
+At the exit of the blade , the solid blade angle , which is indeed the tangent to the camber at the trailing edge , is beta 2 minus this is delta r , which is deviation .
+Now , deviation is a parameter or deviation angle is a physical phenomenon , that happens due to the fact , that flow does not stick to the blade surface , it goes away from the blade surface when it is travelling on the blade surface , especially on the section surface , and the amount it rears away from the blade ’ s surface is known as deviation .
+So , this is due to the fact , that flow is viscous flow and a real flow and at some point on the blade ’ s section surface , it is very strongly , slightly , that it slightly deviate away from the blade ’ s , surface which may be due to the development of boundary layer or it may be due to a very small separation on blade surface .
+If you have a very large deviation and which means a very large separation away from the blade surface , it is indicative of stall .
+So , deviation has to be kept in mind or kept in check ; if you do not have deviation in check it is leading towards stall .
+So , at the design we have to figure out or query quickly at the sight , realistic and possibility of deviation .
+Now , deviation , as we see , is the difference between the blade angle and the flow angle .
+This is to be decided by the designer , how much he would allow that to be and is decided to begin with by this kind of a relationship , where theta is the camber angle , s by c is the inverse of solidity and m is a parameter , which we will take a look at just now .
+So , theta is the camber angle to begin with .
+When you do not have the camber angle because you get the camber angle only after you got the deviation , right now you do not even know the deviation , so at this stage , to begin with , you can use delta beta as the beginning camber angle to proceed with your calculations , you may even correct it with the incidence .
+If that is also assigned and with that starting value of the theta , you can calculate deviation ; having calculated deviation , you can came back , recalculate beta 2 and then , we calculate camber and put back that camber to find deviation .
+So , it is iterative process and if you can do iteration , it normally converges very fast and the converged deviation value is what you should adopt as a design deviation for the particular blade .
+Now , if we look at the deviation , the camber that we were talking about , it is the difference between the blade angles and it can be mentioned in terms of the delta beta , which is the flow turning angle , the incidence angle and then , the parameter m comes into picture multiplied by root over of inverse of solidity .
+Now , m is a parameter , which is dependent on the particular aerofoil that is being used .
+This aerofoil produces certain value of m and typically , an aerofoil would have a certain projected thickness , which is shown here as a and c , of course , is the chord of the aerofoil and a by c , geometrical parameter of this particular aerofoil .
+If you use that geometrical parameter of this particular aerofoil , which as you know , would vary from root to tip , which means the value of m would indeed vary from root to tip and hence , it is shown as m r , it will vary from section to section of a particular blade .
+And if you use those kinds of values , then you get a value of m ; value of a by c may depend on the particular aerofoil family and it may vary from 0.4 , 0.5 for the subsonic aerofoils .
+If you do that , you get value of m ; you put that value of m and you get corrected value of deviation or a corrected value of camber .
+Now having decided on those geometrical parameters , we have seen that certain things , flow parameters , indeed impact on the blade design very substantially .
+Now , degree of reaction is one parameter , that varies a lot , it can be somewhere near about 0 to 2 , near about root and near about , 0 to 8 , 0.8 to 1 near the tip and that kind of value variation along the blade is quite often common in modern axial flow compressor stage design .
+Now , other parameters that affect the dynamics of the flow are geometrical parameters , which are the degree of divergence , which we talked about in the last class and the formula for which is given here again , and the flow turning angle delta beta of the particular section or the mean of the particular blade and the blade speed solidity .
+Now , all of it together gives them a divergence angle .
+Now , in this case , we can talk about divergence of the blade passage , we have talked about divergence of the entire flow track , now we are talking about divergence of the blade passage .
+As you know , the flow is diffusing flow , the passage is in subsonic flow , is going to be divergent passage and you need to have a check on that divergence when you are creating a diffusing passage .
+So , this is how you can keep a check on the divergence that is inevitable in a compressor blade design .
+So , you need to do it for section by section , you need to do it for rotor , you need to do it for stator , for every compressor , every section of the compressor that you are designing , you need to keep check on the geometry of the blades so that how it impacts on the fluid flow or the air flow is by design held under certain amount of control .
+This control had to be exercised by the designer at the time of the design , it is not something that can be left to arbitrary happening of faith , it has to be designed into the blade shape .
+So , these are the airfoil sections , that we have discussed before , I am putting in together all over game for you .
+These are the subsonic blades section that people have used over the years ; this is a C4 aerofoil , again a subsonic blade section .
+So , all the ones on the left hand side are subsonic blade sections , the ones on the right hand side are all transonic blade sections , then NACA 65 have sometimes early on were used for transonic , nowadays they are not used for transonic , rest of the blade section on right hand side are transonic blade sections .
+The one on top is the control diffusion aerofoil , which is used .
+1 , the Mach number or entry Mach number , that is , m 1 relative is near about 0.9 or 0.95 or even 0.85 .
+So , and rest of the blade section over here on the right hand side are used when ( ( ) ) 1 are is clearly supersonic .
+So , these are the aerofoil section you would now need to bring in to your design and put them together to create your blade shapes .
+Now , these are the kind of characteristics , which you may like to use .
+I have given here the aerofoil coordinates of the 65 series blades , which are available in many literature also are easily available and so I have supplied it to you for your convenience .
+And a particular aerofoil NACA series characteristic is shown to be here .
+Similar characteristic are also available in the literature , where the values of exit flow angle and the inlet flow angle are collated together with the other parameters , the incidence angle and the stagger angle of the blade .
+So , the geometry , that is shown here , essentially caters to the entire flow angle and with the variation of , in this particular , this particular chart is for solidity for 1.5 .
+So , for every solidity you would get a chart like this , this is for NACA 65-810 , which means , the camber is the order of 8 percent and as you would get , and thickness to chord ratio is of the order of 10 percent .
+So , for different kind of cambers or different kind of thickness to chord ratio , you would again get different kind of characteristic chart like this and you need to use those charts to find useful and practical correlation between alpha 1 , alpha 2 , beta 1 , beta 2 and the incidence angle and the staggers or the blade setting angles , that you need to set the blades in for your design .
+This is for a transonic compressor characteristic , which we have done before and it again , sets you with the relative flow angle relative pressure ratio across the blade , the Mach number of the blade as it is entering the blade and the losses that are expected with variation of this Mach number , all the way up to Mach 1.6 .
+So , you can use this chart for designing transonic compressor rotors all the way up to entry Mach number of 1.6 .
+You can directly read them often here to find what the relative pressure ratio should be for a cutting particular kind of loss , which you may like to calculate using the shock relations .
+So , this is how you go about designing , whether it is a transonic compressor or a subsonic compressor using NACA 65 kind of blade profiles .
+Now , these are the 3 - D blade shapes , which you would invariably arrive at .
+You get a blade which is twisted , so the setting of the tip is at one particular angle , setting at the root is at another angle , setting of the mean is at another angle .
+So , this picture from the , view from the top gives you the twist of the blade , which is inevitable in most compressors .
+Many of the compressors are indeed , very highly twisted , much more than what is shown here .
+The designer by design would like to exercise a control over the twist and that is how he uses or chooses his vortex law , since choice of the vortex law gives you an ability to control the twist of the blade .
+The modern designers often give shapes like this ; that means , it may not be a straight blade from root to tip , it may have certain leading edge curvature , it may have some trailing edge curvature , both for the rotor as well as for the stator .
+So , in addition to the twist , the blade may have a plan form or a side view , which gives leading edge curvature , trailing edge curvature , which essentially , indeed are sweeps and are these kind of swept leading edge , swept trailing edge used in rotors and stators , are features of many modern axial flow compressors , that we have seen before also in our last lecture , those are designed into the blade shape for certain aerodynamic conveniences .
+I am trying to put together all the blade design steps , that we have discussed , into a neat flow chart and this flow chart you can look at very closely at your leisure and see if you can follow this flow chart , which starts with the identifying the purpose of the design and then go through the various steps of the design during which you would indeed need to make a few assumptions .
+Your design is always is based on certain assumptions and based on certain fixed or variable parameters and then , of course you need to quickly decide , whether you proceed with those assumptions .
+For example , your vertex law is an assumption and then , you discretize a rotor blade into number of sections .
+Once you have done that , you go through all the steps , that we have discussed , put it all together and then check all the dimensions , camber and stagger and whether they are according to your intentions and whether you are getting a smooth surface ; whether you get a smooth blended surface is an important issue .
+If the surface is hugely corrugated or wrinkled , you may have to go back and redesign some of the sections .
+After getting the smooth surface , in the modern designer would send it for 3D , CFD or CFX is one of the possibilities , CFD simulation and having done the CFD simulation , he can decide whether the design is good or some more iterations are required for this particular design .
+So , the design is finished only after all the exercises are over in terms of performance of the blades , performance of the rotor in terms of pressure ratio and in terms of the various other aerodynamic features that are required for the compressor performance .
+Having done all that , you have a design that you can decide , whether it is acceptable to you , whether it fits into your overall scheme of the compressor and once that is done , the design is accepted .
+You have the same steps that you have to do for rotor and then you do the same thing for the stator and only after you have done it for the stator , you have a stage .
+So , these stages often nowadays need to be gone through the CFD analysis .
+The modern designers often also end up using aerofoils , which are 3D aerofoils .
+That means , the aerofoils are not 2D cascade aerofoils , but the aerofoils are essentially on cylindrical coordinates .
+So , they have a certain inherent curvature associated with the aerofoil suction .
+So , many of the modern designers are based on 3D aerofoils and then , you stack them up on cylindrical coordinates , not on flat x , y , z coordinates , but on cylindrical coordinates from hub to tip .
+So , this stacking then is on various radii from hub to tip .
+So , hub has one radius , which is rather low radius , tips has a very high radius .
+So , when you are stacking up , you are stacking up on these cylindrical coordinates .
+So , aerofoils are on a cylindrical surface , they are on a curved surface ; that is why , they are called 3D aerofoils .
+So , modern designer often do 3D aerofoil design and 3D aerofoil stacking for modern axial flow compressors .
+So , we have gone through all the steps of the design and I have just tried to give you the simple steps that lead you towards first cut rotor and stator and stage design of an axial flow compressor .
+If you want to go further beyond these steps , you would need to do lot more analysis , lot more rig testing .
+In the next class we will , the design discussion is complete with this , in the next class we will move towards another aspect of compressor and that is noise ; we will discuss that in the next class .

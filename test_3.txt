@@ -1,0 +1,198 @@
+We have been talking about various kinds of axial flow compressors and their designs in the last few lectures .
+We have done various aerodynamic issues related to the axial flow compressors and then , of course , we talked about how those aerodynamic theories and understandings can be used to create and design an axial flow compressors , blades , rotors and stators .
+Now , all of it together , also has another issue or a serious issue which we will talk about in the today ’ s lecture .
+This is regarding the noise that is created by the axial flow compressors and the fans used in turbo fans , which need to be seriously regulated as per present regulations or traffic regulations all over the world .
+Now , in the early days of jet engines , when the jet engines started powering aircraft , the main source of noise was the jet noise ; the jet noise that came of the rear of the engine and that jet noise was the most noise making device or element in the jet engine .
+Over a period of the time , as the engines became more and more powerful , there is another component that became bigger issue in terms of noise making device .
+Noise related to compressors and fans in most of the turbo fan engine that are used in civil aircraft engines , have become such a big problem that , the regulatory authorities all over the world have put stinger restrictions on the noise created by various jet engine elements .
+So , now , we have jet engines , that noise coming out from the rear of the engine as the jet noise ; it also as noise coming out from the front of the engine , which is created by the fans and compressors .
+And , we shall see in today ’ s lecture , that is one of the reasons this noise is become more and more annoying and need to be regulated , is because the aircraft compressors and fans have actually become more powerful ; and , as we have discussed in the last few lectures , they have actually gone supersonic and transonic .
+So , when they go supersonic and transonic to create a more compressor loading and more compression ratio in short smaller size compressors , they actually end up creating more noise ; they are more noisy elements or more noisy machines .
+Remember , they are aerodynamic machines , so the noise that comes out of them are essentially aerodynamic noise , and this aerodynamic noise has become such an annoying source of problem , that many regulating authorities have put stringent regulations on the noise emanating from these compressors and fans .
+Many airports in the world have very stringent noise regulations and if you do not confirm to those noise regulations , you cannot operate from those airports .
+So , the noise regulation has become such a stringent thing , it is now started impacting how the compressors and fans should be designed .
+And , it is one of the reasons , in fact one of the main reasons , why commercial aircrafts compressors and fans , fans being the first component in the compressor , have not gone beyond the transonic or let us say , middle transonic Mach numbers , where the tip relative Mach numbers is of the order of 1.5 or 1.6 The military engines have gone beyond that , so the technology for making high Mach number fans and compressors do exits , but they are not being used in commercial aircraft engines and one of the main reasons is noise .
+Because , the moment you have high inlet relative Mach numbers , the noise coming out of these engines immediately start going up .
+And , we shall see that the noise is very strongly related to the velocity or the Mach number with which the flow is indeed passing through the compressors .
+So , some of these issues have impacted how the blades should be designed , how the blades need to be finally configured and we shall see that unless you confirm to the noise regulation , your compressor is not going to be accepted commercially and your engine is not going to be certificated for operation worldwide ; so , the issues are extremely important .
+And , we thought we should devote at least one lecture on this particular issue or in which we will discuss noise related problems related to axial flow compressors and of course , fans .
+So , let us take a look at what are the fundamental issues that are involved here that is creating such a lot of annoyance to so many people all over the world .
+We shall stick ourselves to discussing noise problems in axial flow compressor .
+We will not go into the science of acoustics or science of sound making or sound measurement .
+We will just mention them in the passing , so that you become aware of the science that is involved of in this particular problem related to aircraft engines .
+Because , the science of acoustics is huge ; it is a science by itself .
+And , it involves so many things and it does involve a lot of high level mathematics .
+All that is really speaking beyond the scope this lecture series , so we will stick to certain fundamental issues , and I will try to bring to you certain fundamental definitions that are used in quantifying the problem that we are facing , that is the noise .
+And then , I will try to mention to you and show to you , how this noise is actually measured , and how it is actually related to the axial flow compressor operation , and then finally we will end up by discussing what people are doing to contain this noise .
+So , noise containment , by design to begin with , and then later on by certain containment methodology is a measure technological issue with related to axial flow compressors and aircraft engine specifically .
+The land-based gas turbine may not have such a big issue , because most of those compressors are most likely to be subsonic compressors , which do not make such a lot of noise and not , certainly not as much as aircraft engines .
+So , in land based gas turbine , that noise is not that big an issue , as it is in an aircraft engines .
+So , we will stick to certain issues which are relevant and really an annoying issue with relation to aircraft engines .
+So , first let us get into a little bit , just a little bit , a twist on the superficially the science of acoustics .
+We are looking at noise problems in axial flow compressors and fans .
+Now , compressor or fan noise , as I mentioned , is a different kind of noise than a jet engine .
+So , jet engine creates a heavy noise that is due to the sharing action of the jet coming out from behind the nozzle of the engine , whereas the noise created by the compressors or fan is mainly due to the cutting of the blades , rotating blades through the air at higher at high speed .
+So , as I mentioned , higher the speed of these cutting , higher is the noise that is created and this noise escalates as the speed relative to the rotating blade increases .
+Now , as we have seen , this relative speed or relative velocity as we use to call it or relative Mach number , may increase due to either increase of the rotating speed or due to higher incoming axial velocity coming through the intake of the engine .
+So , both either of them would increase the relative velocity or relative speed related to the rotating blades .
+Then , of course , the modern aero-engines have gone transonic ; certain of the air engines which are used in military applications have gone clearly supersonic .
+And , in those cases , the noise is far more than that of the old subsonic compressors and fans .
+So , the problem is many folds today , and as I see , as we see , is directly related to the blade speed cutting through the air , and we shall see as it related to the fifth order or the sixth order of the blade speed .
+So , the result is , slight increase in blade speed could increase the noise tremendously , hugely and that is something which the designers , compressors and fan designers and aero-engine designer are trying to contain by design and through containment methods .
+Let us get into certain fundamental issues related to the science of acoustics .
+Now fundamentally , sound is due to fluctuation of pressure levels and the travel of this fluctuation .
+So , if they travel in waves , sound always travel in waves like light , and these waves are due to the fluctuations of pressures .
+If you do not have any pressure fluctuation , we are not going to have any sound .
+So , a silent zone means that there is no pressure fluctuation going on anywhere in that zone .
+Sound is typically measured in decibels ; this is been derived over a period of years .
+And , it is it is measured in number of scales , predominantly in A scale , sometimes in B scale ; there are many other scale which I have mentioned and finally F scale , which is called the flat scale .
+And , I will , I will try to mention very briefly , what these scales are , just a little while later .
+The sound pressure level , as I mentioned sound is actually a pressure fluctuation , so Sound Pressure Level is defined as SPL and that is 20 log 10 P by P references ; and , as I mentioned , it is measured in dB or decibels .
+Now , dB measurement is in number of scales ; we will come to those scales just little while later .
+Now , in this equation P , is the RMS root mean square , pressure fluctuation , and T reference is the reference RMS root mean square of pressure fluctuation , and this reference is normally 2 into 10 to the power 5 Newton per meter square which is the normal units for pressure .
+So , there is reference , that is been sort of universally accepted at the moment , and we , with the respected to that reference , what is the pressure that is operating at a particular instance for creation of sound .
+Acoustic power is defined as the Power Watt Level or PWL in some literature , in some books and this is given as 20 into log 10 W by W ref , and that is also in dB , and W is the acoustic power in watts , and W ref is the reference acoustic power in , that is normally given as 10 to power of minus 12 watts .
+So , you see , the amount of power that is used by the noise is actually again coming out of the energy that is being transacted within the compressors or turbines .
+So , a measure of the power does tell us how much of power is literally getting fritted away in creation of noise rather than being used for purposeful use in aircraft engines .
+So , acoustic power gives us some idea , how the power is going away in the form of noise energy .
+Now , these are the fundamental definitions of some of the pressure level and acoustic power or sound power .
+Now , fundamentals of acoustics tell us , that the pressure changes or fluctuations travel in waves with certain frequency and amplitude .
+Now , all waves travel with certain frequency and amplitude .
+And normally , higher the frequency , lower is the amplitude ; and normally , these are associated with the so called high pitched noise , which are indeed also sometimes simply referred to as high frequency noise .
+And , these are normally producing or taken away low power .
+So , these are the low power noise making frequencies .
+On the other hand , the high amplitude noise often has low frequencies , and these are the bass kind of sound and they often carry high power .
+So , this kind of sound is often associated with high amplitude .
+Now , when we are looking at noise , it is entirely possibly and quite often it so , that is , it carries all spectrum of noise frequencies ; not just high frequency or low frequency high amplitude or low amplitude , it carries noise of all frequency many frequencies and many amplitudes .
+And now , this is often really the case , as a result of which , when you measure noise , it becomes a problem ; because , you are measuring all kinds of frequencies that are coming out of a particular noise source , not just one particular frequency or amplitude .
+And hence , you need to actually measure all of them .
+So , measuring them is actually very tricky job .
+So , the noise meters or the sound meters are essentially rather complex machines or complex measuring machines , many of them are indeed available in the market , but they have been created after a lot of , you know , scientific development , to capture all these frequencies and then show them up in a certain standard manner in a certain standardize manner in dBs ; I will come to the scales in a few minutes now .
+So , capturing the noise in a measuring instrument is another kind of sound , another kind of science .
+So , once we have the science of acoustic , which defines various kinds of noise or various kinds of sounds and tones and so on and so forth , which includes music , which is , you know , nice to our ears ; but we call something noise , which is annoying to us .
+So , music is very pleasant thing , noise is extremely unpleasant ; and , we are dealing with noise , which are indeed very , very unpleasant , and we have to ensure that those things are eliminated from or reduced as much as possible in operation of civil aircraft engines .
+So , we are dealing with that the science of acoustics .
+The measurement of the sound then becomes a little more complex issue .
+The overall noise is often measured as Overall Sound Pressure Level or simply called OSPL , which is RMS pressure level of the entire noise signal composed of all kinds of frequencies and amplitudes .
+So , this is kind of an overall average noise and is often simply measured in terms of dB as the overall noise .
+So , any machine that you have , the simplest possible noise meter actually gives this value , where all the noise that is picked up by the measuring sensor , is converted in to an RMS pressure level and hence it is just gives a overall noise in decibels .
+The more detail understanding of the overall noise signal is then broken into what is known as spectral components using certain mathematical formats , and this is of course done through Fourier Transform which is typically used in many wave measurements , various kinds of measurement of various waves and sound being ah wave form , it is also captured in Fourier Transform .
+Now , Fourier Transform produces spectral density , for which the standard bandwidth is 1 Hertz .
+So , the frequencies of noise are indeed expressed in terms of hertz , and it is normally measured from 0 or 1 or , in most measurement machines , from something like 10 to 20 kilo hertz ; that is 20000 hertz .
+So , that is the frequency range for which normally the measurements can be made ; it is possible that the noise generated could be higher than 20 kilo hertz frequency of noise or lower than , let us say 10 kilo hertz ; it is it is quite possible , but the point , essentially , is that those kind of noise are normally of not of interest to us .
+Let us see what are the noises that are measured in various scales ; A scale , B scale , C scale , D scale and F scale .
+Now , before we talk about the scales , the human perception of sound is restricted between 10 or more likely , 100 hertz to about 12 kilo hertz .
+So , anything less than about 100 hertz , some very perceptive people might here less than that ; and anything above 12 kilo hertz , that is 12000 hertz , is normally not heard by a human people , human beings .
+And so , anything beyond 12 hertz , which are measurable sound in normal measuring instruments , is often called ultra-ultrasonic sound .
+Now , this ultrasonic sound can indeed be heard by some other animals , for example , like dogs , dolphins or even whales .
+So , there are some other animals who seems to , or owls , who seem to be able to hear ultrasonic sounds , but human being do not hear those kinds of sound So , as far as human beings are concerned , the sound of interest is normally between something like 10 hertz to about 12 kilo-hertz .
+It depends on , it various from person to person ; some people even may actually have even lower perception range than what is shown here .
+So , what the measurement units normally pick up , that range , to conform to the human hearing purpose .
+Now , the human hearing perception capability is captured in the A scale .
+So , A scale that is been created , corresponds to human hearing ; and lower than that and higher than 12 kilo hertz or artificially factored down to or toned down in the A scale , and as a result , the noise from 400 hertz to about 10 kilo hertz are shown dominantly ; that means , they are shown on 1 is to 1 basis .
+Whereas , the noise is below that hertz and above 10 kilo Hertz are often factored down by in the A scale .
+So , that is what is calling a scale corresponding to human perception .
+B , C , D scales are created for various industrial usages , where some of the scales like D are actually factoring in the noise over a period of time .
+Something like may be 8 hours or 10 hours or 12 hours , conforming to industrial noise regulatory requirements .
+So , many of these scales confirm to those regulatory requirements used in the industries .
+And , F scale typically confirms to flat scale , where all the noise actually that is coming out , is picked up on 1 is to 1 basis .
+So , the entire noise from 10 to 20 kilo hertz is picked up in the F scale .
+So , those are the scales that are typically used in noise measurement .
+Typically , the noise is nowadays measured in what is known as noise level , which was acoustic , science of acoustics , but it is measured now in what is known as Perceived Noise Level , PNL , and it is measured in terms of Perceived , Noised , Noised Decibel or PNDB .
+Over a period of time , people have tried to figure out , what is most annoying kind of noise , certain kind of noise that is most annoying .
+It actually can vary person to person , it can vary from one time of the day to another time of the day ; sometimes , it carries certain particular tone of noise which is extremely annoying and some of these are actually , can be captured in the spectrum analysis of the noise meter .
+And then , a correction can be added to account for this extremely annoying tone that is present in the noise , and then this corrected noise is refer to as effective perceived noise and is measured as Effective Perceived Noise Decibel .
+So , EPNDB is what nowadays noise is been measured , especially which is related to aircraft engine noise .
+The pressure fluctuations that we were talking about , which is the source of noise , can be expressed in terms of certain parameters that are indeed used in the noise capturing or noise measurement , where P is equal to cos of alpha divided by 4 phi r into f by a into A .
+Now , A here is the amplitude of the oscillating force , in which case , there is a pressure fluctuation ; f is the frequency of the oscillation , it is being measured at a distance r from the point of observation , of the source of a noise , at a distance r from the point of measurement .
+So , where you measure is extremely important ; noise indeed does increase as you go towards a source of the noise , and it , of course , you measure less and less as you go away from the source of the noise .
+So , the distance r is extremely important in the noise capturing or measurement business .
+And , A of course , is the speed of sound and alpha is the angle at which , over which the noise is being captured .
+Typically , you would be measuring at number of angular locations or at an angular distance and alpha is the measure of that .
+Now , this allows for an approximate estimate of the pressure fluctuations and may provide an approximate estimate of the power associated with it .
+Now , as I was telling , mentioned a little earlier , the power that goes with the noise proportional to sixth power of the blade speed .
+So , a slight increase or decrease of the blade speed would strongly impact the noise and the power that is associated with the noise .
+So , we have to keep an eye on that blade speed are the relative blade speed very stringently ; if you want to keep a check on the noise that is emanating from the rotating blades .
+As I was mentioning , the spectra of the noise can be captured or show in different ways .
+One way is that , noise meters at designed to measure either in one-third octave spectra which is show here at the top , which misses some of the details , but it captures one-third of octave spectra .
+You can see here , the band that is been captured here is from something like 50 hertz to all the way to 10000 hertz , which is the normal range of human hearing , but it is captured in one-third octave spectra or it can be captured in full spectra as it shown below here , and entire detail , again from lower something like 10 , Hertz to 10000 Hertz , has been captured .
+And , you can see here , all the details have been many of the details which were missing in the one-third octave spectra , can be captured in the full spectrum noise .
+The instrument that can capture full spectra , indeed is as can well expected , is a costlier instrument , whereas one-third octave spectra is a littler cheaper instrument and both the instruments , of course , can give the overall noise which we mentioned a little while earlier ; that is , the overall RMS of all these frequencies , average very quickly and gives in 1 single value of dB .
+Whereas , as you can see here , at various frequencies , the dB levels or SPL levels or different ; and as you result , at various frequencies , the dB levels are different .
+So , some frequencies the dB is lower , at some frequencies the dB is very high .
+And , those are the annoying which need to be somehow cut out , and the designers and the engine designers the containment people have to work out , how to cut out those noises which are coming from particular frequencies .
+Now , what happens is , with relation typically to aircraft blades , engine blades compressor blades , certain noise peaks are associated with the blade passing frequency .
+Now , what happens in a blade passing frequency is that , one particular blade , while rotating , passing a particular point in rotation is referred to as a blade passing frequency ; it is very easy to calculate that particular blade passing frequency and that , that blade passing frequency or blade cutting frequency or peak is observed here .
+Now , that is obvious , a most easily identifiable tone that is captured by the noise measuring instrument .
+And , in an old fashion subsonic compressor , that blade passing frequency was the most identifiable noise source or tone , which is easily at , at least dB above the rest of the noises , as it used to be .
+In the recent compressors which have gone supersonic and transonic , we can see multiple pure tones ; that means , there are many of them , mainly due to the shocks that are coming out of the blades , and those shock create noise , and blade passing frequency tone or that particular frequency noise is kind of mixed up or buried in all the multiple tones coming out of the supersonic compressors or fans .
+So , the modern engines and the 10 dB , you know , gap or safety margin that we had is gone , because there are so many other frequencies that which I know is indeed happening ; some of them are indeed higher than even the blade passing frequency .
+So , the noise coming out from axial flow compressors or fans , the modern ones are indeed of multiple tones and they are , of course , more difficult to contain .
+Let ’ s look at what is happening in case where you have rotor and stator .
+There is a interaction of , aerodynamic interaction between the rotor and stator and this interaction also creates noise .
+There is a cutting of the flow that is coming out of the rotor , from the trailing edge of the rotor , and then , of course you have blade 1 , blade 2 , blade 3 , blade 4 , and then you have the stator 1 , stator 2 , stator 3 , stator 4 .
+Now , what happens is , there is an interaction of this trailing edge which is coming out with the stationary blades with relation to the stationary blade .
+Remember , the rotor is moving component , so , the way exact coming out are moving waves , and hence there is a relative velocity associated with the stator and the moving waves .
+Now , so those interactions create another kind of noise and those noises can be two kinds depending on the dynamics of the situation ; it can be propagating noise , as shown on top here .
+So , it can propagate in waves like this , it can keep on propagating or it can be somewhat decaying interaction field , where the noise , kind of , every particular noise source from B 1 S 1 , B 2 S 2 , kind of , sort of dies off ; they do not propagate along , as shown on top here and each of those interaction are die of on their own .
+So , it could be a propagating interaction field or it could be ah decay interaction field .
+So , the interaction between the rotor and the stator ; so , not only the rotor creates noise , the interaction between the rotor and the stator also creates noise .
+And , some of the interactions are indeed in the modern compressors , transonic or supersonic .
+Now , let us see what happens when you have the blades set apart .
+We know that between the rotor and stator , there is a spacing that is decided by the aerodynamics of the design and designer actually do a lot of analysis , aerodynamic analysis , before there fix that in a rotor-stator actual gap or actual spacing .
+Now , as we can see here , the interaction between the two create annoying noise and it has impact on the noise ; this spacing between the rotor and the stator has an impact on the noise .
+As we can see here , the lower the spacing , that is more closer , the higher is the noise ; it can be as high as 140 dB , which is extremely annoying and painful to human perception or human ear .
+If you increase the spacing or the distance between the rotorstator from half chord to 2 chords , the noise comes down ; and , if it is increased to as much as 4 chords , the noise comes down , even more .
+The trouble is , if you increase the distance between the rotor and the stator , it is known that the noise would go down , but it would also reduce the compressor stage efficiency ; that means , the rotor and the stator would be not then work as one single aerodynamic unit of a compressor and as a result , the efficiency of the compression would actually indeed go down .
+Now , when the efficiency goes down , it impacts on the overall engine , efficiency overall engine , fuel efficiency ; but even more importantly , if you separate the rotor and stator , remember , the overall compressor length is now going up .
+So , rotor - stator - rotorstator , if you keep on increasing the distance between the rotor and the stator , the overall length of the compressor is going up , overall length of the engine is going up .
+Now , this is unacceptable ; this is unacceptable to the engine designer , to the compressor designer ; nobody wants a long engine anymore .
+So , what is good for noise is , not likely to be accepted as an engineering solution to the engine designer .
+So , there has to be a certain amount of compromise between the noise that is happening and the engineering solution of a compact powerful engine which will power a flying aircraft .
+So , this is the compromise that has to be done a priory , at the time of design , before the engine is actually made .
+So , this is where most of modern aero-engine designers , the compressor designers , the fans designers are spending a lot of time , lot of analysis in trying to keep the basic source of noise-down , under operating conditions , various operating conditions of the aircraft engine .
+If we look at what happens to the noise , we can see that , certain , under certain operating conditions , the flow that is going into the engine is indeed different ; for example , on the static flow condition , when the aircraft is at the top of , let us see , a takeoff condition , takeoff run , this flow is going into the engine from hole sides .
+So , the noise that is coming out will also be impeded from all sides or it will be carried with this air on all sides .
+So , the inflow characteristic during the static test law or during takeoff is quite different from when the aircraft is flying , when the air is going into the engine in a more uniform manner .
+So , the manner by which the air is ingested into the engine , also would , in a way , decide how the noise comes out of the engine and is propagated .
+So , as we can see here , the noise coming is out , it is in waves , so it will propagate in waves like this ; whereas , in situation like this , it will propagate in waves in all directions .
+So , in a takeoff condition , the noise very quickly spreads in all directions ; whereas , in flying conditions , it normally spreads straight in the front of the compressor or fan of an aero-engine .
+So , it depends on what the operation is of the engine as to how the noise actually propagates from the source of noise creation .
+Now , depending on that , the noise that actually can be measured shows that the blade passing frequency , if it is a stationary engine , the noise measured is often higher under takeoff conditions , is normally of a much higher order ; whereas , in flight condition , the noise are of a much lower order ; it depends on the fan relative tip Mach number .
+Typically , during the aircraft takeoff , it uses maximum thrust , and as a result of which , the noise created is indeed is somewhere over here , which is indeed quite high , could be very high .
+Whereas , during cruise , at some altitude , the fan relative tip Mach number is normally somewhere down here , and as a result of which the noise , as we can see , is substantially no lower than the takeoff or ground static noise .
+So , noise does depend on the fan relative tip Mach number .
+We can see here , it also depends on the compressor operating condition ; as we can see here , when the compressor is operating under normal open throttle operating condition in flight , the noise is normally somewhat on the lower side ; tip ’ s speed of course , impacts .
+On the other hand , if it is operating at peak pressure ; that means , when the pressure created is high , then noise is higher .
+This is expected , because noise depends on the pressure ; that is , the source of noise .
+When the compressor has gone into surge , which is the worst situation from the stall , the noise is much higher , and in fact , an experienced compressor operator can make out that the compressor as indeed gone into stall or surge by hearing the noise coming out of it .
+So , the noise actually is easily identifiable when the compressor is surged .
+It depends on the tip speed , so , as we can see here , the noise value would depend on the operating condition and the operating speed of the compressor or fan .
+So , these are the issues that are to be considered while , indeed , designing a particular aircraft compressor or a fan and together they would have to be put together in final design .
+The noise levels which , as I mentioned , are of annoyance to people who are passengers and others who are around the aircraft at the time of operation .
+The jet noise which typically creates noise of the other of , you know , 90 to about 140 dB ; 140 dB is extremely painful .
+The human hearing is normally good up to about 100 , 110 ; anything more than that becomes painful .
+140 is extremely painful in the sense , if you listen to if you have to listen to 140 dB for a few minutes , it impact your hearing capability for a long time .
+And , if you are subjected to that kind of noise over a certain period of time , your hearing , human hearing may be impaired for life ; so , the noise is very important issue and it can be extremely dangerous to human beings subjected to such a very high noise .
+Now , fan or compressor noise of subsonic fans were of the order of 100 dB or there about ; the moment it is gone transonic supersonic , the noises are now of the order 100 or more .
+And , as we just saw , certain tones , the noises are of the order of 140 dabs .
+So , noise permitted by the regulations is much lower coming out , under certain conditions , measured at a certain distance , something like 50 meters , away from the engine , at certain angle , under certain operating conditions , have to be between 80 and 95 dB , almost for all kind of aircraft engines .
+And , these are the noise regulations that have been put in place to safeguard the human beings that are present inside the aircraft or outside the aircraft in the airport ; which means that to confirm to regulation , the engine designer have to use noise containment or noise suppressing method , because , normally , some of the noise is indeed actually much higher than that .
+So , let us take a quick look at what all things can be done .
+The noise attenuation , as it is called or acoustic treatment as it is called in engineering terminology , is normally with the help of perforated metal sheets with certain perforation or porosity level that is prescribed by the designer , and it surrounds the compressors or the fan , so , the casing of the compressor or fan is made up of such , made with such perforated metal sheet , and around the metal sheet you have honeycomb structures which also observe a lot of noise .
+You remember noise carrying power or energy that has to be observed , and that results in large amount of attenuation or absorption of noise .
+Depth of the honeycomb structure determines the frequency which is mostly attenuated or absorbed .
+So , honeycomb structure will have to be designed by specialist , to absorb noise of certain kinds , so that most of the high pitch noise is indeed absorbed .
+Porosity of the metal sheet also has to be conti in a determined in a manner , which actually attenuate certain kind of noise frequencies .
+Now , this treatment of using metal porous metal sheet or perforated metal sheet and honeycomb works best for high frequency noise which I mentioned earlier , actually carries low power .
+The high amplitude noise which carries high power are actually more difficulty to attenuate , and now we know why ; because they actually carry high power .
+So , most of the noise that is annoying to our ear is essentially high frequency noise and they need to be indeed attenuated or absorbed by certain mechanical means , so that , at least the minimum safety is guaranteed for the people who are around the aircraft .
+So , we have seen that a number of issues are involved here .
+There is a lot of aerodynamics , there is a lot mathematics which we have not done , the science of acoustics .
+All that needs to be factored into the understanding of the noise and then the fan or compressor designer would have to design a compressors that confirms to this noise , and only then it goes on to the aircraft .
+So , the modern compressor designers would have to confirm to noise regulations very stringently ; otherwise , this compressor of fan is not likely to be accepted by the commercial engine designers .
+So , this brings us to the end of discussion on various aspects of axial flow compressors and fans .
+We have discussed various things , but more predominantly , we have discussed the aerodynamics issues that are related to the axial flow compressors and fan .
+Now , we will move on to the turbines .
+And , to begin with , axial flow turbines .
+So , in the next class , we will introduce the axial flow turbines , the fundamental axial flow turbines , and we shall see that it is a different kind of machine , and that is what we will do in the next - class axial flow turbines , an introduction to axial flow turbines .

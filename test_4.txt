@@ -1,0 +1,185 @@
+In today ’ s lecture , we start off with discussion on axial flow turbines .
+Now , in an aircraft engine or any other kind of gas turbine engine , axial flow turbine , of course , is the heart of the engine and it is the one that supplies power to the axial flow compressor , which we have been talking about in the last few lectures .
+So , the gas turbine engine actually derives its name from the axial turbine or the turbine that is embedded within the engine for the supply of power .
+Now , axial flow turbine is one of the possible turbines is possible to have radial flow turbines , which we will talk about later on in this lecture series .
+So , today , we start off with axial flow turbine .
+Now , as the name suggests , as in case of axial flow compressor , the flow is supposed to be essentially axial in nature .
+Now , which , as we know , in case of axial flow compressor , it does not quite fully go axial , it kind of zig-zags through the blades ; in case of axial flow turbines , that zig-zaging is actually even more .
+Mainly because , as we shall see , as we go along , that the turbine blades are far more cambered or curved , and as a result of which , the flow has to be take very large turnings through the turbine blades , eventually exiting again actually .
+So , the flow , generally , in a very approximate sense , remains short of axial , and we shall see very soon that even the word ‘ axial ’ which essentially means , that it should be parallel to the access of the machine , is also not quite satisfied ; because , at varies part of axial flow turbine , we shall see that the flow actually becomes at an angle to the axial , you know , axes of the mission .
+So , the name axial turbine was given , you know , something like seventy , eighty years back and that name has remained .
+Unless you change it with a very complex name , it is not possible to describe exactly what is happening .
+So , axial flow turbine is a reasonably accepted name for turbine , just like in case of axial compressor .
+So , everybody understands what is meant , even though everybody knows that the flow is not exactly axial , in the strict physical or mathematical sense .
+Now , axial flow turbine , essentially , comes after the combustion chamber in a gas turbine arrangement .
+So , before the combustion chamber becomes axial flow compressor , which we talked about or any compressor for that matter , centrifugal compressor , which we shall do in this lecture series later on .
+Now , compressors come before the combustion chamber and turbines come after the combustion chamber .
+Now , which is an indication , that the flow going into the turbines is hot , coming out of the combustion chamber , which is what goes in to the turbines .
+Now , this is a very world concept , that the flow going into turbines should have very high potential energy .
+Now , the nomenclature potential energy essentially indicates that the flow has very high levels oftenternal energy .
+Now , in the old fashion turbines , for example , in water turbines or for that matter , in hydraulic turbines , as used in hydraulic power plants , what is normally done is that the water is indeed released on to the turbine with very high potential energy .
+And that potential energy sometimes is artificially created by dropping the water from a height .
+So , the height of a waterfall , essentially creates the high energy level , because that converts the potential energy to kinetic energy and we shall see exactly same thing needs to be done in case of axial turbines , also in a gas turbine engine , with reference to air craft engine ; that you need to have that potential energy , because , vey soon , even before it hits the actual rotating turbine , that potential energy would have to be converted to kinetic energy .
+And that high kinetic energy or high velocity jet , when it hits the turbine , the turbine works .
+So , the basic principal of working of the turbine , defends on the fact that you have a high momentum jet , whether it is water or air or gas as incase of gas turbine engines , that high velocity jet must be created when it hits the turbine , which is free to rotate .
+So , the principal is , when this high momentum jet hits the free turbine , the turbine by virtue of allowing the jet to pass through it and through certain , let us say clever gas dynamic aerodynamic manipulation , extracts a lot of work out of that high energy gas or fluid .
+And , this extraction process is what the turbine essentially does .
+By extracting energy from that fluid , the turbine rotates ; and in the process of rotating , it creates mechanical energy , and that mechanical energy is then transmitted through the shafts to compressor or to any other things .
+In case of land-based power plant for electrical power generation , the shaft essentially transmits power to the electric power grid for the creation of electrical power and transmission to the grid .
+So , that is the mechanism , by which fundamentally , a turbine is essentially conceived .
+Now , let us take a look at what are the various issues related to the turbine that we would need to really get in to ; because , what we need to get in to is the aerodynamics or the gas dynamics turbine and we need to get into the fact that it has being a part of a heat engine , you know , we are talking about heat engine and a turbine is very much component of a heat engine , a major , probably the fundamental comp 1nt of heat engine that we are talking about , and as a result of which , it has to satisfy or confirm to very closely as closely and accurately as possible to many of the laws of thermodynamics .
+So , those laws of thermodynamics are extremely important with reference to the turbines ; probably they were less important when we are talking about axial flow compressors , because the heat energy was not of a great importance there , but in turbines , the energy transaction involves a lot of heat energy and hence the thermodynamics is quiet an important issue .
+So , in today ’ s class and may be in the next lecture also , we will be talking a little about thermodynamics alongside aerodynamics , so that , we have a full understanding of the entire aerothermodynamics of the course .
+The coinage of word ‘ aerothermodynamics ’ has been done quite some time back and many people prefer to use that terminology ‘ aerothermodynamics ’ , when we are talking about heat engine components like turbines .
+So , let us get into axial flow turbines and let us try to understand the basic introduction of how the axial turbine works and it produces work .
+Now , on axial turbine , basically , can be a unit that is some or in the middle of the gas turbine engine .
+And this , if it is used as a part of the gas turbine engine , and this is something which is conceived right at the beginning , in the engine , is designed or configured .
+And as I mentioned , it comes immediately after the combustion changer ; combustion change is indeed , of course , the stomach of engine , because that is where the energy is put in , fuel is burned , and it takes the working medium , that is air , to high energy level , to very high temperature .
+So , energy is put in there , compressor has already compressed the air to high pressure ; and now , that high pressure , high temperature gas is going into turbine .
+So , turbine gets a feed of high pressure , high temperature gas ; air is compressor by the compressor , and then fuel is burned , and the air-fuel mixture is being relies to the turbine at very high temperature and pressure .
+So , this combination of high pressure and temperature when released on the turbine essentially is carrying itself with it , a very high potential energy , when this potential energy , high potential energy is available .
+So , one of the first things that the turbine would like to do , is convert this potential energy to jet .
+So , what it does is , this large potential energy is converted to kinetic energy , and when this kinetic energy is released on the rotating , free rotating set up blades which is turbine blades , it actually can extract certain amount of energy from this passing fluid , by virtue of the aero , aerodynamics or aerothermodynamics which we are talking about and which we shall talking about in this few lectures from now onwards .
+So , basically , we are talking about conversion of energy to mechanical work .
+So , energy has been created , fuel has been burned and that energy is now being harnessed to do mechanical work , which is work we want to begin with .
+The turbine essentially produces mechanical work ; if we are talking about aircraft engine or aero engine , remember , turbine does not produce thrust , it produces work .
+How we use that work to produce thrust ; that is a separate issue .
+So , in axial turbine , we are not bothered about , you know , creation of thrust , we are essentially bothered about a creating mechanical work .
+And , as we know a little that , part of that mechanical work actually goes into running the compressor , which compresses the air which is coming into turbine .
+So , it has gone into loop , energy loop between turbine and compressor .
+So , in a typical aircraft engine , a good amount of energy , actually taken out by the turbine and created into mechanical energy , actually goes into running of the compressor .
+And , that is the loop that takes away energy and the reminder of the energy is used in creation of thrust .
+So , creation of thrust cannot be done with all the energy that is released in the combustion changer ; only part of the energy would be eventually available for creation of thrust , rest of it goes into turbine compressor , energy loop or work loop .
+So , let us see , how the turbine now or what kind of turbines are normally used in extraction of energy from the passing heart high pressure gas , mainly air .
+What happens is , as I was just mentioning , the turbine takes out work , it passes on to the compressor , but there are two other possibilities ; the one possibility in modern , most of modern civil or even military engines , that there are turbo fans .
+So , much of the energy , especially in civil in the cross application , much of the energy goes into , from turbine into the fan or a big fan , which is a part of the turbo fan .
+Now , this big fan creates thrust of its own ; it does create thrust through the nozzle of the main hot air engine , it is creates what known as cool thrusts .
+So , much of that turbine thrust is created by the cool thrust of the fan itself ; in some of turbo fans , that is the major thrust , much more than that the hot thrust created by the hot nozzle .
+So , that work is supplied by the turbine .
+So , turbine directly supplies work to the fan and fan , by virtue of rotation , creates a thrust very much like a propeller , as it is used to be in earlier days , for fifty years , aircraft were flown with propellers ; there were no turbo fan engines or turbo fan engines .
+So , those fifty years , the propeller used to get power from the turbines ; turbine was always there .
+Of course , in the beginning , for many years , it was piston engines ; as soon as some version of gas turbine engine came , gas turbines were initially running the propellers .
+And , it was propellers which were producing thrust earlier with piston engines .
+So , the thrust-making was created by the propeller and when the turbines came , turbine was supplying power instead of the array of piston engines .
+So , turbines , at the job of supplying mechanical power , shaft power to propellers to fans to compressors .
+So , that is a basic job the turbine has .
+Now , let us see what kind of turbines people have been using over the years , the fundamental the major of the turbines .
+If you look at this , you will see that there are two groups of turbine that has been identified here ; it is called 2 - spool axial flow turbine .
+The basic parameters is that , one group of turbine actually does work from the hot gas coming from the combustion chamber ; and then , having finished its work extraction , whatever energy is still leftover is passed on to the another group of turbine , which is called LP , is low pressure turbine .
+Because of the work done by high pressure turbine , the pressure level has gone down ; the potential energy level has gone down .
+And , with comparability low potential energy , it is gone into the LP turbine , which then extracts a lot of work and then that is passed on to the compressors or the fans .
+In this particular engine particular , for example , this LP turbine will be supplying a lot of power directly to the fan , a big fan of big turbo fan engine .
+Whereas , HP turbine or high pressure turbine , would essentially be supplying power to the compressor , which compresses the air which was going in to the combustion chamber , before the fuel was bird .
+So , many of the model engines , the turbines , like compressors , as we have seen before , is often split up into two groups ; one is call the high pressure turbine and another is call the low pressure turbine ; and high pressure turbine runs the high pressure compressor , low pressure turbine runs the low pressure compressor and or , the big fan .
+In some of the engines , as you may have done in some of the curved courses , there may be three groups of turbines .
+So , we may have HP turbine , we have the Intermediate Pressure , IP turbine , and then we may have LP turbine or low pressure turbines .
+So , it is possible that many of the modern turbo fan engines have three group of turbines to run three groups of compressors and fans .
+Now , this is split , which is normally done by the engine designer .
+So , engine designer configures the hole engine , and then hands over to the compressor designers for designing the compressors and the turbine designers for the designing the turbines , which requires a lot of analysis in the process of design , which we shall talk about a little later in this lecture series .
+So , turbines essentially , can be , essentially , in number of groups , and , of course , all groups together , we call them multi-stage turbine .
+So , typically , when aircraft engine today , invariably has multi-stage turbine .
+Long back , in the early days , when the gas turbines was used for powering aircraft and it was running essentially , let us say , a propeller or a simple jet engine , only one stage of turbine was often used to run the entire set up of compressors .
+So , when the engines were small , quite often , a single stage of turbine was often sufficient to run all the compressors together .
+And then , later on , only two stages , and the split between LP and HP , all these splits were not there .
+So , a single spool set of turbines , may be one , may be two were sufficient to run the entire set of compressors , which could have been 8 , 10 , 12 stages of multi-stage compressor .
+So , this multi-staging started very early , but the multi-spool came a little later .
+And now , as mentioned , you could have up to 3 spools of multi-stage turbines .
+So , we have to design , we have to analyze them stage by stage .
+We have to understand , how the turbine works stage by stage , rotor , stator or rather , rotor-stator put together ; in turbines , the stator comes first .
+So , those are the steps by which we have to understand the working of the turbine , and then finally , analyze the turbines , which we shall be doing from next lecture onwards in detail and later on , the design of the turbines .
+So , let us take at look at that one single stage , which is the fundamentally unit of turbines or multi-stage turbine .
+If you look at single stage , typically , it has a stator which often sometime people call a nozzle , and the reason is we shall see very soon ; the shape of the blades and the passage between the blades is that of a nozzle .
+And hence , quite often , it is called a nozzle , and another good reason why it is called a nozzle is because , as we have just discussed , the job of the stator is to convert high temperature , high pressure gas ; see T 01 and P 01 are very high , and it is coming with some actual velocity , which is not very high at this moment .
+Convert this high potential energy gas to high kinetic energy gas as it passes through this stator nozzle , and that is the other reason why it is call often , just a nozzle ; because it actually is , factor defector , doing the job of a nozzle by converting potential energy to kinetic energy , because that is what nozzle actually does .
+So , many of the stators in a turbine or essentially in many books and literature , are simply referred to as nozzle .
+The rotor , of course , is the free to rotate set of blades , which then extracts the energy .
+So , as the flow comes to the stator nozzle , it acquires very high kinetic energy ; with that high kinetic energy , it impinges on the rotor and the rotors made of certain aerodynamics shapes , aerofoil shapes essentially manage to extract a lot of energy , has that high energy gases passing through the rotor .
+And , in the process of passing through varies laws of psychics and thermodynamics , it manages to give-up a lot of its energy to the rotor .
+And so , the rotor acquires the energy in mechanical form of work , by virtue of rotation ; and then , it passage on to the shaft , where the rotor blades are very firmly fixed with the help of very well-known , inverted fir tree root attachment .
+And then , this rotor is , of course , running the shaft , which powers the compressor or anything else that you would like to send power of work to .
+So , that is the basic mechanism by which the axial flow turbine essentially works ; that you have a stator , in which , essentially , high kinetic energy is created from high potential energy , and then the high kinetic energy jet is made to impinge on the rotor , you know , in a certain aerodynamic manner , which we will see very soon .
+And , if you can do that correctly , then with very high efficiency , the rotor can extract a lot of energy of that high energy internal energy gas .
+So , then that high internally energy is been converted now to external energy , kinetic energy ; and then , this is now taken away by virtue of rotation of the turbine in the form of mechanical work .
+So , that is the mechanism by which a single set of axial flow turbines work .
+The flow , as a mentioned , is generally axial , as shown in the picture ; if you take the median path , right through the turbine , you will find that it is more or less axial , which is parallel to the axis of the engine .
+But it many turbines , in many cases , as we just saw here , for example , the flow here is more or less axial action in the HP , even near the casing ; and near the hub , it may not be actually axial , it may have curvilinear paths ; but afterwards , as we can see , the flow becomes very clearly non-axial ; and , it goes into , at an angle , maybe in a curvilinear path and then goes out again more or less axial .
+So , it has come in axial , going out axial , but in between , it is entirely possible that the flow may be non-axial , as it is passing through the turbines .
+So , similarly , in a single stage , it is quite often , approximately axial ; but in reality , the flow may be somewhat non-axial , passing through the blades .
+Now , let us , as I mentioned , let us take a quick look at some basic thermodynamics that is inevitable in turbine discussion ; because , it is part of a heat engine .
+Now , what happens is , as I mentioned , the flow comes in combustion chamber ; so , the starting point shown here is 03 , typical of a gas turbine engine and it is comes from the combustion chamber .
+Now , this high energy gas is now being released through the turbine ; and , in the process of releasing through the turbine , it drops in energy level from 03 to 04 .
+So , it is dropped from the pressure of the P 03 , which is the total pressure , to total pressure of P 04 ; and , in the formal static pressure , it has dropped from P 3 to P 4 .
+So , the drop of energy , and we can see , it also dropped from P 03 temperature to P 0 , T 04 temperature .
+And , this drop in temperature and this pressure is actually representative of , it is giving up the energy or loss of energy , which is gone into the turbine work or creation of work through the turbines .
+Typically , to complete the picture , we have the total drop here from 03 to 04 , the static drop from 3 to 4 along the dated line ; and of course , we know the difference between 3 and 4 , which is the dynamic head , which is the entry dynamic head of C 3 square and the exit dynamic head of C 4 square .
+Now , in this diagram , which is temperature entropy diagram , the line 03 , 04 or 3 , 4 are the real turbine working lines .
+If thermodynamically , the process through the turbine is entirely ideal , then the flow would be actually thermodynamically dropping all the way vertically from 03 to 04 dashed 04 per prime over here , and static pressure and temperature would be dropping from 3 to 4 prime .
+So , this is the vertical drop or in terms of thermodynamic term , it is the isentropic drop , during which entropy change would be 0 .
+In real process , that is entropy change , so , that process is not an isentropic process .
+One may call it polytrophic process or definitely a non-isentropic .
+Now , as we can see here , if we go by the drop , let us say the temperature drop of 03 to 04 prime , as we can see in this diagram very clearly , the 03 to 04 prime drop is indeed far higher than 03 to 04 drop , which is H 0T , which is the real work and H 03 prime is the ideal work .
+So , in a turbine , realistically , the work extracted or work done is often , somewhat less than the ideal work that would have been possible , if the work was thermodynamically and has dynamically , absolutely ideal as per the theory .
+As a result of which , one can say , that there is an efficiency attached to working of the turbine , which is typically expressed in terms of the ratio between the real work and the ideal work , and this ratio is typically referred to as efficiency of turbine .
+For the sake of clarity , quite often it is simply referred to as isentropic efficiency .
+Also , as we see here , the real dynamic head at the exit is C 4 square , the ideal dynamic head is C 4 prime square ; for the sake of certain amount of simplification , quite often it is assumed that these two values of C 4 , that is , C 4 prime ideal and C 4 , that is ideal , are equal to each other ; which means , difference between P 4 prime to 04 prime and 4 to 0 4 are equal to each other ; that is for simplification for many thermodynamic analysis .
+So , if we now look at various kinds of turbines , the way this work is extracted , there are essentially two kinds of turbines , which will be talked about in some detail from next lecture onwards ; one is simply called the impulse turbine .
+Now , the name comes very fashion notion , and that , you have the turbine on which jet is impinged ; and , as the jet is impinged , the turbine works by virtue of impulse , that is created by the impingement of the jet .
+And , as the flow is made to take a large amount of turns to the turbine , we shall see that in very soon ; it simply gives up a lot of work by virtue of turning .
+So , essentially , it is the impulse of the jet ; when it hits the turbine , which creates the rotation of the free rotor blade , and that produces , you know , helps extraction of the work , and hence it is simply called the impulse turbine .
+Because , the work seems to be done by the impulse force ; that is , the jet impinging on the free rotor .
+The other kind of turbine that developed later on , much later actually , and has been used in , now , gas turbine engines and aircraft engines , it is called reaction turbine .
+Now , in a reaction turbine , as the word must be familiar to you , there is a certain amount of reaction force that is coming in to picture .
+Now , where does it come from ?
+It comes from the fact , that as the flow is made to go through the turbine blades , rotor blades , we have seen the flow going through the stator blades , you know , goes through a nozzle kind of action and which creates the jet .
+If you do the same thing , let us say , for the rotor ; that means , it is allowed to go through a certain amount of nozzle affect , then flow coming out the nozzle of the rotor would have a nozzle effect .
+Now , the nozzle effect essentially , is captured by the fact that a nozzle produces a reaction effect or reaction force ; this is how we get our thrust of our aircraft engine .
+Now , supposing we do the same thing in a very small way in a turbine , and we allow a jet to come out of the turbine , with a certain small amount of reaction , which then produces a force of backwards on to the freely rotate blades .
+So , the reaction force adds to the working of the turbine in addition to the impulse of the impinging jet .
+So , a typical reaction turbine has both , the impulse effect as well as this additional reaction fact , which is being created by the design of the turbines , and as a result of which , we have two effects , through which the work is extracted from the passing high energy gas .
+And , this is called reaction turbine or reaction turbine , by basic understanding , is high impulse plus reaction turbine ; it is simply call reaction turbine , but it is indeed , an impulse plus reaction turbine .
+So , we have two kinds of turbines ; we can have impulse turbines , which is pure impulse , only due to the impingement effect ; the other is where the reaction is coming in , a little more subtle way and adding to the working capability on the turbine .
+So , let us take a look at a simple , you know , pressure distribution ; what is done in a turbine is , as we see , it is using aerofoils of some aerofoil shapes kind of things , to do the work that we are talking about .
+Now , typically , if you have a flow over the aerofoil you are invariably going to have one surface which is more curved and the other surface which is less curved .
+So , the one surface , which is called the more curved is typically called the suction surface , which is the more convex surface ; and this is what we had seen in case of axial flow compressors also .
+The other surface which is a concave surface , is actually called often as the pressure surface ; and , on the suction surface , you have acceleration and then deceleration or diffusion ; on the pressure surface , you have a very mind continuous suction .
+So , on one surface , you have a very sharp , lot of suction and then a little bit diffusion .
+So , the effect would be suction or acceleration ; whereas , on the pressure surface , you have a continuous mild suction or acceleration , so that , when the two flows from suction and pressure surface meet up again at the trialing age , the net effect would be a net acceleration through the blades .
+So , typically , axial flow turbines effectively create a net acceleration through the blades ; whereas , in case of compressors , as we have seen , a similar pressure distribution would have shown that the flow has net deceleration through the blades .
+So , the flow through the compressors when one net diffusive flows through the turbines , there would be net accelerating flows or expanding flows .
+We have a quick look at what these blades would be look like ; if you take a cut through the blade , any blade , if you just take a cut , we would simply get this kind of aerofoil looking shapes .
+Now , what happens is , flow , as we were discussing , when it comes to the stator or nozzle , it goes through this passage , and this passage is a curved accelerating passage , usually a curved accelerating passage , as you can see .
+And this curved passage produces this jet , high velocity jet , which is shown near C 2 and then , if it impinges at , and this rotor blade starts moving , it will have a motion .
+So , this air which is coming through will also experience motion of the rotor , which is U ; that means , the rotor would seem to be moving away from the jet that is coming ; and , as a result , the result in velocity would be V or V 2 coming into this moving blade .
+So , that is the velocity with which the flow is entering into the moving blade .
+So , the flow was coming from the stator nozzle with C 2 ; the blade is moving away with a velocity U and then resulting velocity V or V 2 is now going into these rotor blades .
+And then , the rotor blades give out the velocity V 3 , which is relative to the moving blade ; and then , if you subtract the motion of the blade itself , U again , you are , you get the residual ; that is C 3 , which is the exit velocity of the flow coming out of this turbine stage .
+These details would be done , you know , again and again , starting with the next lecture and you get to use this more and more , as we ago long in this lecture series .
+Now , this is just to tell you , what is an impulse , what is a reaction .
+When the velocity V 2 and V 3 are shown here , equal to each other , that is when we called it an impulse turbine .
+On the other hand , the reaction turbine would have V 3 , clearly more than V 2 .
+So , in this diagram , it simply means that V 3 more than V 2 would be a reaction turbine ; if there equal , it is an impulse turbine .
+As we shall see later on , as we go along the values of U and V 3 and V 2 and even C 3 , would vary from root to the tip of a turbine .
+Now , those are the details we would do in the following lectures .
+So , to complete the picture of axial flow turbine , this is a diagram which we have put together ; the details of this also would be done in more detail in the following lectures ; just to give you a quick idea of what is happening , from 01 to 02 , the flow is going through the stator ; that is the stator flow .
+So , this is the thermodynamic depiction of what is going through stator and rotor .
+So , that is the flow that is going through the stator ; and , 02 to 03 is the flow that is going through the rotor .
+And then , of course , the static temperature drop - 1 , 2 and 3 , corresponding pressure drop - P 1 , P 2 and P 3 ; and the corresponding dynamic heads , the ideal and the real ones , all of that is captured in the diagram .
+So , the flow from 0 to 1 to 2 station is the stator nozzle ; 2 to 3 is the rotor , in which , as we have seen , it this possible that some amount of velocity acceleration has also taken place , which means , V 3 as shown here , is more than V 2 ; in impulse , they would be equal to each other .
+So , these are some of the things that comes out the details of the axial flow turbine and these details would be talked about more and more as we go long in this lecture series .
+Just to complete today ’ s lecture , I will just tell you , what we were talking about in terms of efficiency ; and , as I mentioned , they are often called isentropic efficiencies , because the relative , comparative reference point is the isentropic change of parameters .
+So , typically , total to total efficiency is often given in terms of ratio of the work done of the real and the ideal .
+If the C P is taken to be constant in both the real and ideal frames , then it is essentially the temperature differential or the work or the temperature change across the turbine in real and in ideal , that the ratio of the two gives you the efficiency .
+Similarly , the static efficiency is the static temperature change real to static temperature change ideal that gives you the static to static efficiency .
+In the denominator , the change can be split up in stator and rotor .
+There is a third efficiency , which again , is defined in terms of total temperature change to static temperature change across the stator and this is because , as we see here , the static temperature is indeed often of a higher order than total temperature change .
+And , if you take total to static change , you are talking about change all the way from 0 , 1 , to all the way down to 3 .
+So , some of those things are factored to the total to static efficiency definitions .
+And , you would be doing details of these things and connecting these thermodynamics definitions to the aerodynamics in the following lectures .
+So , to complete the picture , it is possible to even define a rotor efficiency , which is essentially , work done by the rotor in terms of temperature , compared to that with the ideal or isentropic temperature change .
+And then , at the end of the day , you can say that the work done by this turbine is captured in terms of the Euler ’ s equation that we have done before ; and that is U into C W2 plus C W3 .
+In case of turbine , as we have seen here in this particular diagram , the C W 2 and the C W 3 or on two opposite sides of the axis or actual direction ; as a result , they sort of add-up ; so , C W 2 shown here and C W 3 shown here , kind of add-up .
+So , these are the things that would be coming up in the next few lectures , in more and more greater detail .
+So , this is how the work is done in axial flow turbine .
+So , today , we have just introduced what is axial flow turbine , what kind of turbines are used typically in many gas turbine engines , some of the modern versions of them , what they look like , what kind of blade sections are used there and then , we have just started off with a theory of axial flow turbines , the aero-thermo-dynamics theories of axial flow turbines , which we shall carry on in the new few lectures in more and more detail .
+Firstly , the twodimensional theories , and later on , as I mentioned , the flow becomes three-dimensional and we shall do the three-dimensional theories to understand , how full axial flow turbine works .
+So , in the next lecture , you would be , indeed , doing the detailed two-dimensional turbine aerodynamics and a little bit of thermodynamics may be ; so , that is what you will be doing in the class - two-dimensional flow , cascade flow in axial flow turbines .

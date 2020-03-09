@@ -1,0 +1,233 @@
+We have been talking about Axial Flow Compressors .
+Most of the axial flow compressors that have been used from the early days were subsonic axial flow compressors .
+In the sense that the flow through the compressors were generally subsonic well below mark one and as you know the compressors have rotors and stators , so flow through both the rotors and the stators were subsonic .
+The flows as measured in the relative frame of the reference in the rotors were indeed subsonic and hence the entire flow regimes through the compressor rows or blades were essentially subsonic for many many years .
+However when there was a need to increase the compressor pressure ratio and increase its performance both in terms of pressure ratio as well as in terms of its mass flow processing capacity , it became necessary that the compressor should go supersonic to accommodate more mass flow and to run it at higher rotating speed and the combination of the two , resulted in the flow going through the blades supersonic .
+Now the supersonic flow through the blades , as you know , as any supersonic flow the moment hits the solid body produce a shocks .
+And these shocks are essentially from pure aerodynamics point of view loss making proposition .
+So a moment you have shocks the flow encounters certain amount of energy loss and in the business of producing or transacting energy , this loss is essentially a loss of transaction .
+That means so much of energy would not be transacted in the process because of the presence of the shocks .
+And moment the shocks are present the general tendency would then be that the compressor would not be able to perform with the same efficiency as before that is as subsonic compressors .
+So this was one of the impediments in the early sixty ’ s when the transonic compressors first came into being .
+However it was found that , if you can have high pressure ratio per stage and if you can line up number of such high pressure ratio stages , the total number of stages required to achieve an aggregate of pressure ratio for a gas turbine engine would be substantially lower than what it was earlier .
+And as a result of which the size of the engine , the size of the compressor , the size of the engine , everything would shrink .
+Now this is a very attractive proposition when you are putting it on an aircraft .
+Because in a aircraft the size and the weight matter hugely .
+So the moment you are able to the shrink the size of the engine and produce thrust of the same order a slight loss of a efficiency was accepted to begin with .
+And then over a period of last 30 , 40 years there were dynamic compressor designer have done enough to ensure that efficiency has been restored back to its high value through very fine aerodynamic understanding aerodynamic design .
+And in last 25 , 30 years with a lot of help from computational fluid dynamics .
+So all of these together has ensured that we have transonic compressors today , which are partly supersonic , partly subsonic , which means the compressors can go supersonic that means the flow can be in entirely supersonic and such compressors , supersonic compressors are indeed used in special circumstances specially in a rocket motors where you need very very compact compressors .
+In air craft engines , the designers decided to stick to transonic compressor other than going fully supersonic , which as I mentioned would have meant a lot of shocks , and lot of shock losses ( vocalized-noise ) and those lot of shock losses would have really brought down the efficiency of the compressor substantially which as you know show up in the form of fuel efficiency .
+So the designers decided that they would rather stay transonic and even now , they are slightly pushing this transonic to higher and higher level , pushing very slowly into the supersonic Mach numbers , very slowly because they want to ensure that the compressor still remain very highly efficient , energy efficient .
+So that the transaction of the energy in the compressor is still done efficiently and this requires a lot of understanding the aero dynamics of what is actually happening with the presence of the shocks and how you can design compressors , the blades , the air of foils , so that even with shocks they produce very efficient energy transaction .
+So let us take a look at these transonic compressors that have been around now for a little more than a 40 years and what are the forms of various transonic compressors , what do they look like , how have they been designed and what are their characteristics , how you manage to get the characteristics of these compressors in place for the sake of design .
+So let us take a look in at various aspects of transonic compressors which are used very widely in modern aircraft engines .
+They are probably not so widely used in land based compressors of gas turbines .
+But , in air craft engines transonic compressors are the damn thing and almost all modern air craft engines have transonic compressor stages one or more stages of a multi stage compressor are almost in variably transonic in their operation .
+So let us take a look at these transonic compressors that are widely used in aero engines .
+Now the transonic compressors are essentially transonic because , the flow transits from subsonic to supersonic or from supersonic to subsonic , some are within the compressors .
+And this transition of flow from one kind of sonic to other kind of sonic flow is what gives the name transonic .
+This transition occurs because of the shocks , if it is the flow is originally supersonic through the shocks , normal shocks they would become subsonic .
+And if the flow is originally subsonic some are on the blade , as the blades have curvatures or some are on the blade surface the flow may go supersonic and then again transits back to subsonic .
+So these transitions are captured within the blades , within the blade passages , within the compressors volume and hence they are called transonic compressors .
+The other way of looking at the definition of transonic compressor is that the flow may actually be supersonic , some are near the tip of the blade but , it may be subsonic near the root of the blade as we know , the relative Mach number at the rotor is a combination of a actual absolute Mach number and the rotating speed and this combination produces the relative Mach number and it is highest at the tip and that highest value at the tip may indeed go supersonic where as at the root it may still remains subsonic .
+Now this kind of transition in the span vise direction of the blade are also referred to as transonic blades in the sense of the flow transits from subsonic to a supersonic along the length of the blade .
+The classical method of understanding is that the flow transits from subsonic to supersonic or from supersonic to subsonic in passing through the blade passage in the chord wise direction and this transition from supersonic to subsonic or vice versa , it depends on the designer if the designer wishes and we shall see later on .
+This wish is essentially decided by what the designer wants to achieve .
+The high supersonic or transonic Mach numbers in fact we have brought into the reckoning because , designers wanted to achieve higher pressure ratio .
+Now the question is how high ratio pressure would like the designer would like to achieve .
+So the extent of the pressure ratio which the designer wants to achieve would indeed decide whether the flow should be allowed to go mildly transonic or highly transonic or whether the flow to begin with could indeed be subsonic , very high subsonic .
+So all those decisions are taken to a large extent by the fact that the designer wants to upgrade is pressure ratio and the pressure ratio indeed is the decisive factor in deciding where the transonic flow should be pecked in terms of Mach number .
+So , some of those decisions have to be taken a priory before the design is initiated .
+So those are some of the things that are decided by the designer while starting the design of the transonic blades .
+Now let us look at how the flow may go transonic inside the blades .
+we know from the velocity vector diagrams through the compressors rotors and stators that the flow incident on the rotor is typically V 1 and that is a combination as I just mentioned of C 1 and U 1 , now C 1 is the absolute velocity which flow is coming into this stage and U 1 is the rotating speed of the blade at the particular section and as we can see here at the root the value of U is small and at the tip the value of U is indeed rather high .
+So , at the tip you are likely to have value of V 1 very high the highest compare to that at the mean and at that the root .
+And at the root it is lowest hence and this is exactly what I was trying to mention a little earlier that the root this value of V 1 could jolivel be subsonic where as at the mean it could be near sonic and at the tip it could be go clearly supersonic .
+So the flow would transit from subsonic to supersonic , as it goes from root to the tip of the blade .
+On the other hand it is entirely possible the flow as it comes through the blade rows through the rotor and then through the stator , the flow acquires supersonic velocity right in the beginning , then it transits to subsonic as we can see here , V 2 substantially lower than V 1 and as a result of which is entirely possible that V 1 is supersonic and V 2 the exit velocity from rotor is indeed subsonic .
+And then C 2 could be subsonic and hence the entire flow in the stator could be subsonic .
+Alternately from this velocity diagram it is also possible to see that on one hand , V 1 let us say at the mean or at the tip anywhere could be supersonic , then it becomes subsonic as it exits from the rotor then as we can see here , from this transformation of velocity vectors C 2 is substantially higher than V 2 which means it is entirely possible that C 2 could actually becomes supersonic which means the stator would allow supersonic flow entry into the blade passage and then of course through diffusion process C 3 would indeed become subsonic .
+So it is possible that flow enters the row rotor supersonically , exits sub sonically , it enters the stator supersonically and then again exits subsonically .
+So all these possibilities exits and it is up to the designer to figure out what kind of velocity he would like to use to complete the process of energy transaction and compression .
+Very high compression ratio would normally require supersonic flow in both rotor and stator and this is what is often done in as I mentioned some of the rocket motor compressors on other hand in most of the air craft engines as of today only the rotor is supersonic where as the stators and by enlarge subsonic but , as we can see here it is entirely possible for stator to also go supersonic .
+So more and more stators in the modern designs are likely to go mildly supersonic to begin with and this would enhance the pressure ratio of the compressors as we can see here higher the velocity field more would be the possible energy transaction because as we know , the energy transaction is the indeed directly depended on the velocity field that is operative through the blade rows .
+And those theories still apply when we are looking at the transonic compressors .
+So this is the fundamental basis on which the transonic compressors were conceived that if you could modify the velocity vector diagrams and accommodate supersonic flow into the blades then it is possible for the blades to achieve the higher pressure ratios and those higher pressure ratios then could actually shrink the size of the multi stage compressor and indeed that of the entire engine .
+Now let us likely a look at various possibilities that I have just been talking about .
+The possibilities is indeed that the shock is only in the rotor that means only the rotor has gone supersonic which essentially means that the flow coming into the rotor is supersonic and then you have a shock standing in front of the blades .
+Now each blade would have a shock standing in front of it and this shock you know is shown over here , so the flow as it enters the rotor in supersonic .
+The shock is then is kind of encored between two blades .
+So one leg of the shock is encored between the two blades and the other leg of the shock , the other side of the shock goes tangentially away and they are all parallel to each other , so they don ’ t enter the blades they bypass the blades and go away and finally , wither away .
+Whereas , the one that enters the blade passage is considered a passage shock and the flow coming into this passage would have come through this shock .
+So the flow coming into the blades actually comes through two shocks , one the first one which is come from the proceeding blade and that is going away and finally , as I mentioned ( vocalized-noise ) withered away whereas , the second shock it encounter is the one that is held between two blades and after encountering the shock the flow often becomes subsonic and rest of the flow through the blade passage is often indeed subsonic .
+In this particular configuration of shock in a rotor the flow in the stator is entirely subsonic , so only the rotor is supersonic .
+On the other hand , if we consider the fact that it is possible looking at the velocity diagram that we have done .
+It is entirely possible that the flow in the rotor is entirely subsonic , however the value of C 2 as they go into the stator indeed as gone supersonic .
+So a very large energy transfer has been achieved in the rotor through highly camber blades and not much diffusion as probably been done and this large turning as produced a large energy transaction .
+Now this energy manifests itself in the form of large kinetic energy from the rotor exit .
+This light large kinetic energy makes the flow supersonic as it is gets into the stator .
+Now the stator has to do large amount of diffusion large amount of energy been carried in the form of kinetic energy and this diffusion needs to be done through the stator and hence if the flows go supersonic and if you have shocks it is in a way somewhat help , because the stator can do the diffusion job partially supersonically that means the flow then goes through these shocks as I was mentioned in the earlier slide .
+Its exactly the same way it goes through at least two shocks first shock a head of the blade and then the second shock in between the blade and then the flow goes subsonic and then part of the diffusion is then done supersonically through the shocks .
+This shocks as we know sharply diffuse the flow , it is a shock diffusion and hence the flow goes through partial supersonic diffusion and then rest of the diffusion is then done subsonically as we have understood before .
+As we can see in the picture over here the stator here is indeed arranged in such a manner that the passage over here as you can see , is clearly a diffusing passage and this diffusing passage would create subsonic diffusion , so that the flow is highly diffused by the time it leaves the stator .
+So that is how the diffusion is completed in the stator and in this case it is a shock in stator compressors stage .
+The third possibility of chords is where high pressure ratio is to be achieved .
+Now in this case the flow enters the rotor supersonically from the velocity vector diagram we may be able to see that the it may leave the stator rotor subsonically having on through a certain amount of diffusion in the rotor however , it again becomes supersonic as it enters the stator that means V 2 is subsonic , C 2 is again on supersonic and the stator is also supersonic , that means it has shock in rotor as well as in stator and this kind of a compressor stage is more and more becoming useful because they promote high stage performance , very high energy transactions through the rotor and then a very high diffusion , because part of the diffusion is now through a supersonic shocks and the supersonic diffusion and subsonic diffusion together promote very high diffusion .
+And hence both the rotor and the stator are now highly loaded .
+And this allows the entire compressor stage to be highly loaded and a high pressure ratio stage .
+So as the pressure ratio demands goes higher and higher it is possible that more and more compressor stages would have shock in rotor and shock in stator kind of stage and the flow would be supersonic going into both rotor and stator .
+And that is happening more and more specially in the aero engines .
+If we now summarize we have to see that to utilize supersonic entry flow in a controlled manner the way we have discussed just now .
+It is necessary that you have different kind of airfoils .
+You cannot use the subsonic airfoil that we have discussed before and those subsonic airfoils would indeed give very high shock losses .
+Those shock losses would decrease the efficiency of the compressor and such low efficiency compressor would not be acceptable to the industry .
+Hence new airfoils need to be developed and such airfoils had been developed and are still been developed as we go into more and more transonic and supersonic compressors designs .
+Now , airfoils with sharp leading edges are theoretically the more attractive proposition when you have supersonic flow , because at the sharp leading edge , the supersonic flow would promote an attached shock and this attached shock would then be easy to control and would give lower losses .
+However , in actual flow compressor in aero engines sharp leading edges would create problem under off design operating conditions because under off design operating conditions , those sharp edges would actually promote very fast flow separation .
+And as a result of very high flow separation the compressor would actually go into quick stall .
+Now this is a problem , this is a serious problem because a very sharp leading edge is actually susceptible to faster and earlier stall when the flow is subsonic .
+That means a sharp leading edge or a sharp leading body , a sharp nose body , does not know how to deal with subsonic flow , is very bad in subsonic flow , is very good in supersonic flow , is very bad in subsonic flow .
+So as soon as a subsonic encounters a sharp leading edge , the flow around the sharp leading edge would immediately go into stall .
+Which means under half design operating conditions of such sharp leading edge compressor blades , the flow would go indeed into stall and go into serge you have studied stall and serge in this lecture series and you would know that those are dangerous things happen when compressor is operating .
+We cannot allow such things to happen .
+So early on in the compressor designers decided that they would not like to have any sharp edged , leading edged blade anywhere in the compressor design .
+So most of the blades are slightly rounded and as a result they give of shocks which are not attached shocks they are detached shocks .
+So we will have a look at those shocks in a few minutes .
+One of the things that were required is that if you have supersonic flow on the blade surface , at some point of time the flow would need to be diffused into subsonic flow and the diffusion from supersonic to subsonic would have to be done in a controlled manner because if you don ’ t do it in a controlled manner it is most likely that your shock losses will go up and if shock losses go up your compressor efficiency will go down .
+So it is necessary to ensure that the shocks are created or allowed to be created inside the blades in a controlled manner .
+And this control has to be exercised at the time of designing the blades , designing the airfoils .
+So the airfoils have to be created which actually have a control over the shock generation .
+So when the flow is supersonic going over the blades the shocks that are created have certain amount of certain kind of shape and characteristics that are known and those things would create less of shock losses .
+This has to be designed into the airfoil shape it has to be designed into the blade shape .
+It will not happen automatically it has to be done by the designer .
+So this is what the designer started doing when the transonic compressors first appeared , subsonic airfoils were no good , new airfoils had to be designed and hence and they have to be designed in a manner that the shocks that are created are under some kind of control when the compressor is operational .
+Without the control the compressor would not be able to perform in a controlled manner , in a efficient manner , the compressor would very quickly get out of control .
+So the kind of airfoils that compressor designer started creating essentially to control the supersonic diffusion followed by ( vocalizednoise ) sub solid diffusion created a new kind of airfoils .
+So let us take a look at some of these new kind of airfoils .
+The first kind of airfoils that was created is simply called double circular arc airfoil .
+Now it actually is called double circular simply because it as two circular arcs , one circular arc of the pressure surface and another circular arc of the suction surface .
+So the entire suction surface and the entire pressure surface each are made of one circular arc and two of them together create double circular arc airfoil .
+Now this is something which was the first airfoil that came into being for transonic compressor .
+And as you can see here , early on they had decided not to have sharp leading edge .
+Very early designs indeed had sharp leading edge but , very quickly they created very mild you know rounding at the leading edge as well as at the trailing edge and as a result they are very mildly rounded at the leading and trailing edges .
+The radius of the leading and the trailing edges are much smaller than that of subsonic airfoil leading and trailing edge radii but , indeed they are still rounded they are not sharp .
+So , double circular was the first kind of airfoil that appeared for transonic compressor usage .
+Immediately thereafter , all kinds of new airfoils started coming .
+Now here we have all the airfoils that have been used in transonic compressors in the early era of transonic compressor designs first were the NACA 65 airfoil which were actually used for high subsonic usage .
+However they were initially when used for transonic compressors the flow would go mildly supersonic on the blade surface and would somewhere over here the flow would go supersonic and it would create a small shock .
+It was very quickly found that if your Mach number has to increase beyond one , these blades are not really suitable for that kind of high Mach number .
+Indeed if the Mach number is increased to 0.9 the shock losses of NACA 65 blades indeed would go suiting high and the compressor efficiency go steeply down and the compressors would not be commercially acceptable .
+That promoted the design of a new kinds of blades .
+Now , one was where you could go clearly supersonic Mach number up to 0.3 could be utilized and these are double circular arc blades which I was talking about and these were developed as a immediately placement of NACA 65 when the flow had to go clearly supersonic .
+So for clear supersonic Mach numbers or double circular arc or DCA blades were created .
+Whereas when the flow is still mildly supersonic or just below the sonic element of the order of let say Mach 0.9 or they are about say 0.95 a new kinds of blades actually came into the market .
+And these were called controlled diffusion airfoil or CDA at that point of time .
+These were developed in eighties .
+With the help of computational fluid dynamics and these were computer generated airfoils .
+Now shape of the airfoils that you can see here is darkly different from NACA 65 and indeed also from double circular arc blades they look like actually like boomerangs .
+Now this boomerang shape blades called call controlled diffusion airfoils , actually fitted the bill when the Mach number is of the order of 0.9 or 0.95 .
+It allowed the flow to go clearly supersonic on the blade surface reaching Mach number as high as Mach 1.3 or so on the blade surface , allowing a mild shock to appear on the blades surface and then still go supersonic , that means transit back to supersonic on the blade surface and exit the blade subsonically .
+So it enters the blade subsonically , go supersonic on the blade surface and then exits the blade subsonically again .
+Now this kind of blade has been used when the entry Mach number to the particular blade row is of the order of the 0.9 or so and they are extremely useful in controlling the supersonic , subsonic diffusion , that take place on the blade surface .
+This particular shape actually uses what can be called an extended diffusion capability that means the diffusion of the blade is carried out over a large length of the blade chord and hence this kinds of blade were also called long chord blades and these blades were indeed chord wise length where somewhat more than that of NACA 65 or double circular arc blades to contain the or control the diffusion on the blade surface .
+Now these kinds of blades as I have mentioned were computer generated with the help of various computer programs and computer codes that were available during the eighties .
+However it must be mentioned that in the modern era of actual flow compressor design , most of the blades are indeed computer generated .
+So what was started in eighties as a special kind of blades or special family of airfoils called controlled diffusion airfoils now has reached a stage where almost all airfoils used in actual flow compressors are indeed computer generated with the help of CFD .
+So CFD has played a very large role in modern compressor design by to begin with helping design of the airfoils and then later on as we shall see in helping the entire blade shape design .
+So modern airfoils , almost all airfoils probably one can say all airfoils used in modern compressor are indeed control diffusion airfoils .
+So the special variety of control diffusion airfoils that people devised during the eighties have given rise to the fact that almost all airfoils today are indeed controlled diffusion airfoils .
+One can start with let us say , a NACA 65 airfoil and then a morphed or change its profile to arrive at a control diffusion airfoil .
+Or you can start with a double circular airfoil and then morphed and change its profile with the help of CFD and arrive at control diffusion airfoil .
+So all kinds of airfoil used in aircraft aero engine compressors today are indeed all varieties of controlled diffusion airfoils .
+So let us take a look at some other kinds of airfoils that have been used in the design .
+Now controlled diffusion airfoil was conceptually derived from supercritical airfoils .
+Now supercritical airfoils if you are aware of the aircraft winged design arrived in the sixties and some time little later using the same philosophy the controlled diffusion airfoils were created for compressor usage using the CFD techniques .
+In doing this the velocity or the c p distribution on the blade in airfoil was predetermined or decided by the designers based on experience or certain requirement and using that using the inverse method or what is known as inverse method in CFD they arrived at a 2 - D cascade for airfoils .
+Now as we have seen before , in compressors one has to generate not just an airfoil but , you have to generate cascade where the entire arrangements of airfoils is build into the airfoil generation .
+So the CDA airfoils were generated in a cascade form not just as isolated airfoils .
+And that was the difference between the CDA airfoil generation and supercritical airfoil generation used by the wing designers for the aircraft wings .
+And this generation developed what is known as large chord or wide chord blades , these were used for actual compressor designs and they allowed the large amount of diffusion control that needed to be done .
+Later on , as we will see later on , that most of the compressors do have some amount of diffusion control , not always you need wide chord but , even today you do need a wide chord to control the diffusion specially when you have the large fans which do need wide chord blades .
+So wide chord blades are used today very widely in designing transonic and supersonic fans which are used in big turbo fan engines .
+Now , let us take a look at the kind of shocks that typically the blades would have encounter and then negotiate and work under .
+Let us take a look at the kind of shocks that the blades would have to encounter .
+In DCA blades for example , the blades would encounter one shock first it stands in front of the blade as we have seen and then it it comes through this first shock and then the passage shape here is such that it would promote series of expansion fans .
+In DCA blades the contour of the blade is due to the circular arc and it would promote an expansion fan in a supersonic flow if the passage is kind of diffusing passage or diverging passage it would indeed promote expansion fans and that is exactly what is happened .
+And this flow comes through the expansion fans and then it recovers the Mach number which it had loss through the shock .
+So whatever Mach number is loss to the shock is recovered and it goes into the terminal of the final shock with that Mach number and then goes subsonic and finally , diffuses the flow subsonically and exits subsonically .
+Now this is how the double circular arc or blades would negotiate the shocks and this is typically called the shock structure of the double circular arc blades .
+On the other hand , the further development of double circular arc created the multiple circular arcs .
+Now multiple circular arc , as the name suggests , has more than two arcs in creation of an airfoil you can have one circular arc here , another circular arc here on the same surface , on the suction surface you may have one circular arc here another circular arc over here .
+So you may have minimum of four circular arcs in creation of an airfoil .
+You may indeed like to have more circular arcs put together in creating multiple circular arcs .
+Now multiple circular arcs obviously as you can see is not restricted to the fact that you have do not have two circular arcs .
+So the maximum thickness point is not necessarily at the mid chord .
+Now that is the important issue in double circular arc blade the maximum thickness as to be invariably in the mid chord in multiple circular arc it does not have to be at the mid chord .
+You can put it anywhere by using certain kinds of arcs .
+This allowed the designers to have more control over the creation of the suction and the pressure surface contours .
+And hence it allowed then to have greater control over the supersonic flow that is coming into the blades .
+In fact it allowed them to play around with the maximum thickness point it could be pushed further up or it could be pushed further down in the chord wise direction which means the amount of supersonic regime over the blade surface can be shortened or lengthened .
+And as a result of which it allowed the designer enormous amount of latitude in creating transonic compressors .
+So in the multiple circular arcs that came in in 70 ’ s and then later on were developed in 80 ’ s have actually allowed transonic compressor designers a large amount of latitude and indeed have allowed to go to higher Mach numbers which were not possible with double circular arcs .
+And now the Mach number it has gone to is the order of 1.8 were multiple circular arc blades have been you know bend back , instead of going this way it as been bent back and created S type blades which allows the Mach number to go 1.8 .
+So multiple circular arc blades allowed the Mach number entry Mach number to be extended to higher and higher values and by mutating the circular arc shapes at higher Mach number blades are less scampered it does not have to cambered as much as it is seen shown in this .
+This diagram is shown is essentially to show the construction of the multiple circular arc blade but , often enough the multiple circular blades are very flat like these once they often have very low camber and in case of very high Mach number were use S type blade that means there is implection here and the blade is indeed cambered or went backwards into an S shape the net camber may be in fact the order of 0 .
+The design or the arrival of the multiple circular arc shapes actually created at enormous possibilities of transonic compressor design .
+Now let us take a look at what these possibilities are .
+The shocks in multiple circular arc blades now because of the contouring of the circular arcs , the first shocks which stands of like this the flow comes through this shock and then this zone ahead of the terminal shock that means between the terminal shock and the first shock is a supersonic zone and due to the contouring of the multiple circular arc blade this zone now creates a series of supersonic shock fans instead of expansion fans as we have seen in double circular arc blades .
+Now the shock fans actually promote steady and slow deceleration supersonically through this zone .
+So by the time it hits the terminal shock , it actually has a very low Mach number .
+So the shock loss through the terminal shock is very low .
+Typically when the Mach number is really high like double circular arc if it had regain the Mach number .
+Here the terminal shock loss would have been very high .
+However continuous reduction in this supersonic Mach number and then final transition through the shock the terminal shock allows the total shock loss to be rather contained within a low value and hence if efficiency of these compressors would still be competitive and very high , And hence the multiple circular arc blades allow the flow to efficiently go through supersonic diffusion and then subsonic diffusion and still encounter reasonable amount of shock and subsonic losses so that the efficiency of the compressor is reasonably and competitively high .
+If you take the S type blades which have very high Mach number of the order of 1.8 or so as we can see in this shock structure , one of the shocks is again going out , the other shock which is gone inside the blade , now actually hits the next blade somewhere near the trailing edge .
+Which means on this blade , all the way from leading edge to almost near the trailing edge to the flow is actually supersonic .
+So the supersonic flow regime as been extended all the way from here to here almost near the trailing edge .
+And the subsonic slow is very small so as a result of which the flow as an extended supersonic zone and that zone has to be a supersonic diffusive zone .
+So there is continuous diffusion supersonically in this zone , before it goes to the terminal shock and finally , exits subsonically .
+This kind of shock generation which finally , hits it somewhere near the trailing edge there are issues of shock boundary layer interaction which actually can aggravate the boundary layer flow over the blade surface and can indeed create thick trailing edge wakes and can indeed actually increases the losses in blades .
+Some of these issues are to be factored into the blade design and into the airfoil shape design .
+This S shape design has to be very accurately created to contain this wake generation which is primarily due to the shock boundary layer interaction that happens over here .
+The shock boundary layer interaction is a very specialized subject ; we will not go into that in this lecture I would suggest that you study that as separately , so that you understand that it is an important issue that the compressor blade designer would have to contain with , in creating the blade shapes .
+Now , these are the kind of issues that the compressor designer would have to negotiate and factor into the blade shape and the airfoil design .
+One of the things we see here is that the blade shapes are detached bow shocks in all the cases that we have seen .
+These are the bow shocks the shape of the bow essentially comes from the shape of the airfoil itself and so depending on what the shape of the airfoil is the bow takes it is the own shape depending essentially according to the supersonic flow theory and this bow shock then essentially stands off or is a detached shock .
+The stand of this distance of the detachment of distance is also decided by the Mach number and by the leading edge rounding that is given to the airfoil .
+So the leading edge radius that is created or given to the airfoil has to be done accurately to decide what the stand of distance of this bow shock is going to be .
+So these are some of the issues that the airfoil designer would have to decide at the time of designing these blades .
+Now let us look at the common features of shock structures , the shock models allow the designers to carry out the detailed performance prediction of the axial flow compressors .
+Remember what we have seen are essentially shock models .
+During actual operation it may or may not exactly operate as per those models .
+However experiments have clearly proven that most of the time compressors do actually operate a very closely according to those shock structures .
+The rounded the leading edge creates a detached bow shock which stands in front of the row of blades .
+One lay of the bow shock , one leg of the bow shock bends inside and go inside the blade passage and acts as a terminal normal shock , which we have called passage shock .
+The other leg goes outward approximately parallel to the face of the blade row and is normally for supersonic analysis purposes is considered an oblique shock .
+The standoff distance is as i mentioned decided by the leading edge radius and the entry Mach number of the flow and the shape of the bow shock is decided by the shape of the airfoil profiles and the incident Mach number .
+As we have seen higher the Mach number and the shock goes actually go more and more inward inside the blade to the extent that it may go ahead in the ... near the trailing edge of the next blade .
+The DCA blades , the supersonic Mach number is normally less than 1.5 , 1.4 typically by 1.5 you would need to use MCA blades and in DCA , as we have seen in the flow accelerates through a series expansion fans , after the front oblige shock and then transits to subsonic through passage shock .
+According to this model the shock diffusion and the supersonic expansion are approximately equal to each other specially chord wise zone and the flow regains its original entry Mach number in front of the normal shock .
+The flow parameters are to be estimated across the passage shock using the normal shock theories .
+The MCA blades are essentially are used for Mach numbers which are 1.4 or 1.5 of that order and this shape was as I mentioned created for greater control of the blade profile and this blade shapes also creates a bow shocks .
+Typically the MCA blades use near the tips and the DCA blades may be used near the mid sections and near the hubs you may be using the good old NACA 65 blades .
+The entry flow through the shock fans is normally supersonic and then diffused till the passage shock this supersonic diffusion is an important thing .
+It has to be done in a controlled manner before it goes into subsonic diffusion .
+The S types blades , the Mach number is very high and the bow shock goes further inside the passage and hits near the trailing edge of the next blade and this results in a longer supersonic diffusion , one has to have control over this supersonic diffusion and that is why the S shaped needs to be created very accurately otherwise this supersonic diffusion would not be a controlled supersonic diffusion and hence in this kind of S shaped most of the diffusion is supersonically done .
+And only a small amount of diffusion is done subsonically .
+Let ’ s take a quick look at the kind of characteristics these blades have .
+Typically if you take the rotor you look at the relative Mach number which is important issue as far as the rotor is concerned and the relative rate pressure ratio across the rotor which is typically used in the rotor configuration .
+And this is the loss that would have to be taken into the account in the relative frame .
+So this entire diagram is in relative frame its relative Mach number , the relative pressure ratio and hence the maximum pressure ratio is 1 and the relative losses in the relative frame .
+So these are the ones that are used in the kind of the characteristics that is used by the designer to create transonic compressor .
+It shows that as the Mach number increases to about 1.4 or so , the relative total pressure ratio would start dropping with the rise of the losses .
+So unless the losses are contained the relative total pressure ratio would start dropping and essentially the compressor pressure ratio would also show up as a lower pressure ratios .
+So to have a high pressure ratios , one has to create the losses down and the lower losses have to be essentially by containing the shock losses .
+The rotor and stage maps , the typical compressor maps of transonic compressors are very sharp , typically they are very sharp compare to the subsonic compressors and when the stall the stall very sharply and indeed they are very sensitive because you have not sharp but , very thin leading edges , very small leading edge radius and they are very sensitive to inflow angles , the incidence angles that the flow is coming in with and as a result the characteristics of these compressors are extremely sharp and this sharpness is shows up in the compressor map and they fall very sharply after the stall much sharper than the subsonic where the stall is often rather gentle .
+If we complete the characteristics , if we look at what the designer would try to do he would try to find maximize the total pressure ratio , because that gives the rise to actually the higher work done but , if you increase the higher total pressure ratio you would get you might end up getting a lower total pressure ratio .
+So depending on the design point the efficiency of the rotor has to be chosen and you need to find a balance between high total pressure ratio , which gives you more work and relatively high , relative total pressure ratio across the rotor .
+So high total temperature ratio is required for more work done , high relative total pressure ratio is required for higher compressor efficiency .
+So these three parameters are also intrinsically connected to this characteristics map and this is the kind of characteristic map that is used for transonic compressor design .
+So what we have done in this lecture , is we have looked at various aspects of transonic compressor , how they came into being , what they have achieved over the last 50 years of their existence and indeed where they are going and how these kind of compressors can indeed the design .
+We will talk about design in the next lecture , in next few lectures in little more detail including subsonic and including transonic compressors .
+So we will extend the transonic compressor concept in next few lectures when we go into the design of actual flow compressors and we will come back to how the transonic compressors are designed , along with the design features of subsonic compressors this is what we will do over next two or three lectures .

@@ -1,0 +1,260 @@
+We are talking about axial flow compressors and axial flow compressor design in this lecture series on Turbomachinery Aerodynamics .
+Design of axial flow compressors , more specifically , the rotors , stators require a certain amount of understanding of how the flow actually flows over the blades .
+So , we have gone through the theories of those flow of the blades , the two-dimensional nature of the theory ; we also had a look at some aspects of the three-dimensional flow , how the flow indeed becomes three-dimensional and how to track it ; that is one of the bigger problems .
+One of the things we mentioned , is that , much of the three-dimensional flow analysis these days is done , indeed , with the help of computational fluid dynamics .
+And , as I have indicated , we shall be doing certain amount of Computational Fluid Dynamics , CFD , towards the end of this lecture series , where , we shall introduce to you certain aspects of CFD , as used in compressors and turbines .
+So , we will continue to mention CFD as we go along and , some of it , probably , hopefully we will get clarified when we actually cover those in lectures later on in this course .
+At the moment , what we are looking at is , axial flow compressor design .
+Now , as we have seen , the actual flow compressors are indeed created with the help of aerofoil shapes .
+Now , all modern axial flow compressors - rotors , stators , fans in turbo fans , they are all made of airfoils shapes , and this airfoil shapes have been created essential to created to certain aerodynamic requirements .
+Now , originally , many of the airfoils shapes were created by various agencies like NASA , previously as it was called NACA or the British Airfoils were created by royal air force or the German airfoils were created by Cardigan University ; similarly , they were quite of few airfoils created in USSR or Russia .
+And now , many of these airfoils were used in the early era of compressor design , because they have carried with them , certain characteristics .
+Now , those characteristics are normally given in terms of their lift coefficient and drag coefficient ; that is C l and C d characteristics , with reference to the change of angle of attack or what is more known as C l alpha or C d alpha characteristics of these airfoils .
+Now , very soon it became clear , that for use in compressors and , indeed in turbines too , test the airfoil characteristics , per say , is not really sufficient and indeed , actually , not very useful ; what is required is cascade characteristics .
+Now , we have done the cascade theory , and so , what is required is airfoils arranged in a cascade .
+The moment you have airfoils arranged in a cascade , number of other geometrical parameters come into picture .
+So , not only the airfoil shapes itself , but how they have been arranged , the blade setting angle or what is known as stagger angle , the solidity or the spacing between the blades ; all those things start coming into the picture and indeed , of course , the entry , mark number , Reynolds numbers , which are the aerodynamic parameters .
+So , number of geometrical and aerodynamic parameters put together , then , create what is known as the cascade situation ; and then , of course , you have a arrangement of airfoils , which is , what is indeed , is the first building block of compressors and turbines .
+So , that is what , is initially required to start designing compressors .
+Now , again , a lot of cascade data was indeed created by the early researchers , again from NACA and as I mentioned , many other countries had their own research bureaus .
+They created this cascade data based on cascade tunnel experiments ; we have mentioned to you what cascade tunnel is .
+And , those pain-taking reports put together , cascade characteristics data were used for many , many years for designing of axial flow compressors , rotors and stators .
+Now , cascade , of course you can use either for rotor or for stator , because cascade is a stationary arrangement .
+And , how we use it for rotor and how you use it for stator is your judgment and your prerogative as a designer .
+Now , many of these things are going on for , you know , almost half a century .
+Now , over the years , it has been realized that , what you create out of the old fashion early cascade data is reliable , very reliable , but they have some limitations of their own .
+As we have done in the earlier lectures , the compressors are gone high subsonic , they have gone transonic ; indeed , they are pushing towards high transonic and there are special applications where you could actually go supersonic .
+The entry mark numbers to many of the rotors , relative mach numbers have indeed gone supersonic .
+Now , moment you have that kind of low situation , you need cascade data for those situations , and more and more modern designers find that that kind of cascade data is no readily available at hand , in which case they would need to either extrapolate the earlier data or create their own data to initiate the design process .
+Now all this is based on aerofoil arrangement in cascades .
+There are two things ; one is , airfoil is by definition , is a two-dimensional entity is a two-dimensional aerodynamic shape .
+That aerodynamics is found more than hundred years back , to have huge aerodynamic efficiency ; that means , its lift to drag ; C l to C d ratio can be manipulated or can be selected in such a manner , if it is your requirement .
+And C l by C d ratio , indeed , actually is a figure of merit for airfoils choice and it effectively defines the aerodynamic goodness or badness or aerodynamic efficiency of a particular airfoil .
+When you put them in cascade , it has been formed ; the original airfoil C l C d characteristics does not , you know , carry on anymore , and so cascade value of C l C d for the same airfoils is often different , quite different depending on the cascade arrangements .
+So , the C l C d values that one gets of airfoil a characterization is not quite valid for cascade arrangements , various kinds of cascade arrangements and indeed they would need to be looked at afresh .
+So , many of the early designers did create the cascade data and then later on , more and more modern designers have resorted to creating the data using CFD .
+So , they create the data in CFD , they often create the cascade geometry in CFD and then take it to the rotor design .
+Now there are two problems ; one is cascade , as we all know , is a twodimensional entity , it is a flat arrangements of airfoils , which indeed , are also flat airfoils , flat entities .
+So , whole thing is on a two-dimensional plane .
+Now , what happens is , a rotor or a stator is arrangement in an annulus plane .
+So , when an aerofoil is put there , it is rotating in an annular path .
+So , there are two things happening ; one is , the airfoil is subject to flow , which is not really flat or two-dimensional ; we have seen that the flow can be termed as a meridianal flow , which could be in a curve linear path .
+The second is of course , in a rotor arrangement , it is a rotating airfoil .
+So , every airfoil then , in a blade from root to the tip of the blade , is actually rotating ; they are not stationary ; whereas , cascade data that is generated is stationary data .
+So , these two differences did always pose a little bit of challenge to the designers , that they had to make necessary changes in the cascade arrangement , airfoil arrangement to meet the annular , to begin with the annular requirement and then to meet the rotating requirement .
+We shall go into some of these geometrical and fluid-mechanic , aerodynamic related issues in today ’ s class to figure out how the blades are created , how blade shapes are created .
+So , as we see now , that the requirement is that , you create a blade shape , finally to meet the requirements of a rotating rotor or a stationary stator in a multi-stage axial compressor arrangement .
+And remember , both rotor and stators are indeed arranged in a annular space ; so , all rotors and stators are arranged in a annular space , they are not flat arrangements .
+So , these two differences have given rise to the feeling , and indeed , technology by which the blades need to be created which fit into this annular space and of course , at the rotor , is rotating entity .
+This is given rise to the three-dimensional blade shapes , you cannot afford to have the two-dimensional pure airfoil based entities ; because , what happens is , once you are in annular space and once it is rotating , the aerodynamics creates threedimensional flow .
+So , whether you will like it or not , the flow situation with reference to the blades is highly three-dimensional .
+Once it is three-dimensional , many of the two-dimensional aerodynamic assumptions , aerodynamic understandings based on airfoil and cascade theories need to be slightly changed , need to be slightly revised .
+And these revisions , depending on the blade shape and depending on the blade size , depending on the ratio and indeed depends on the mach number and other aerodynamic parameters .
+So , modern compressor designers have gone for blade shapes that are indeed , highly three-dimensionally in notion shape ; and notionally , it is kind of understood that , if you make the blade shapes three-dimensional , it is probably possible to keep the aerodynamics of the flow closer to the two-dimensional theory with which we are comfortable with , which is understood and very well predictable from two-dimensional theories .
+If you allow the flow to become too much of a three-dimensional flow , there is a strong possibility that much of the predictions or the predicting methodologies would fail ; and in which case , the compressor would behave in a manner that is not predictable .
+So , a modern notion is that , you create a blade which is three-dimensional and then you are closer to the 2D or pseudo 2D blade theory that we have done in some detail .
+On the other hand , if you keep the blade more with two-dimensional stacking of airfoils , the flow would indeed be three-dimensional and you would lose track of what is happening , and the predictability of the compressor performance would indeed go down .
+So , on this notion which is developed to a last 20 , 25 years , modern designers tend to make the blades highly three-dimensional .
+We always know that , we already know that the blades are twisted ; all compressor turbine blades are indeed twisted , rotor and stator blades are twisted , so twist is inevitable .
+We are not talking about twist at this moment , we are talking about some other geometrical parameters that bring in threedimensionality to the blade shape ; and in today ’ s lecture , we will be talking about threedimensional blade shapes .
+Let ’ s look at some of the issues that are involved in creation of 3D blade shapes and we will start with how a two-dimensional blade is indeed , to begin with , created .
+What happens is , a standard axial flow compressor blade shape is done with the help of some of the vortex law starting with a free vortex law , which we have done in great detail as the guiding principle .
+Now , that allows you to gated to the three-dimensional change in aerodynamic parameters .
+When you do that , the twist automatically comes into the shape .
+So , twist is there , even in what is called pseudo two-dimensional design methodology .
+Such designs , as we were discussing , essentially use the airfoils which are picked from available cascade data and these cascade data have been very pain-takingly put together by various researchers .
+They carry data with reference to change of geometry , with reference to the change of solidity , with reference to change of mach number etcetera ; so , lot of cascade data is available for certain airfoils .
+If you are creating new aerofoil , cascade data would not be available ; in which case , you would need to create some initial data , may be with the help of CFD and then get into the design , and then later on use more and more CFD and then rig test to perfect the design .
+Now , as we know , any design that we do using the vortex law , creates the twisted blade .
+And , these are made of airfoils ; even at the tip of a blade , of the rotating blade , you have a flat aerofoil and hence you get a flat tip .
+So , the aerofoil , as an entity , being used as an aerodynamic fundamental building block , creates a flat tip .
+So , even now , or till recently , most of the rotor blades indeed used to have or still have flat tips .
+These kind of designs , as I mentioned , they are arranged in a annular space and rotors are rotating , they immediately create strong secondary flow characteristics .
+Now , we have studied this in earlier lectures , and in spite of applying radial equilibrium , which again we have done the theory of radial equilibrium , the secondary flow is inevitable in a compressor annular space ; which means , the flow is not only flowing nice aerofoil setting , but it was all kinds of radial flow components that develop as it goes into the rotor , and those radial flows create passage vertices which we have done , and those are the secondary flow characteristics which take away lot of energy , which is been transacted and as a result of which the compression job that is being done , goes down .
+So , secondary flow actually reduces the compressor efficiency .
+So , these are some of the issues that are connected with standard or normal design procedure , which do produce in our reasonable good compressors ; but if you want to have more modern compressors , which are also reasonably efficient compressors , competitively efficient compressors , you probably need to look at beyond this standard aerofoil based , cascade based design procedure , and that is what we would try to indicate in today ’ s lecture .
+So , let us look at first , a very standard design procedure .
+What happens if you are designing an axial fan or compressor , is that you need some initial specifications ; you need the mass flow for which , let us say , it has to be designed .
+I have just put some values here and exercise , which we have done ourselves here at IIT Bombay .
+But , you need to put in your values over there , on the right hand side of the column , to initiate your design process .
+So , first you need the mass flow which the compressor has to process or compress , then you need to select rpm as quickly as possible ; we were doing fan , allow speed fan , so , the rpm is 2400 ; the modern compressors , as you know , rpm could be 10000 , 15000 or even higher .
+Then , you need to choose a certain value of compression that you need to do or pressure rise that you need to accomplish .
+You need to start using your dimension of your compressor , the tip diameter and hub diameter ; because , those come out of the overall engine configuration and overall engine specification .
+So , some of those things should start coming as early as possible for the compressor designer to decide is , aerodynamic parameters and then his geometrical parameters .
+Correspondingly , out of the first few initial specks , what can be immediately deduced or the axial velocity through the annular space of the particular compressor stage under design .
+Then , exit axial velocity , which are mass flow based and density based using the continuity condition .
+And then , the corresponding temperature rise that you would need to have , innovatively had corresponding to the pressure rise that you are trying to accomplish .
+And , this temperature rise , of course , multiplied by Cp would give you the specific work done or specific work that needs to be done , which indicates the power that needs to be supplied .
+Now , this power in a gas turbine engine , as we know , has to come from the turbine .
+So , the turbine power has to be decided as to how much power needs to be supplied to the compressor .
+Then we , first thing that is normally done is , you carry out a mean line design ; that means , at the mean radius through the entire multi-stage compressor , you first complete the so called mean line design of all the stages ; and then only you do the detailed design of each stage from root to tip .
+When doing the free detailed design from root to tip , you bring in the free vortex design law or any other vortex design law , so that you can transpose the aerodynamic parameters from mean to the tip and to the root ; and this transposition requires use of one of the vortex laws .
+So , this is what we would do in a very standard design procedure .
+Now what is normally done is , the aerodynamic parameters that you need to use and you need to have for detailed geometric design of the blade , needs to be first found through aerodynamic theories or two-dimensional or pseudo two-dimensional theories ; that , we have done in the earlier lectures .
+Now , here what I am showing is , particular rotor being designed and it is been subjected to elemental analysis over 31 radial stations from root to tip .
+So , it has 31 radial stations .
+So , 1 is the root and 31 is the near tip .
+So , that is the overall spread or the span of the blade over which the whole blade is being analyzed and moving towards the design .
+So , those are the station numbers ; that is the radial distance , corresponding diameter and then the annular space of each of those elements .
+And then , of course , all the parameters , velocity , the angles beta 1 beta 2 and the velocity parameters C w1 , C w2 etcetera .
+And finally , the aero-thermodynamic parameter ’ s degree of reaction and specific work that comes out of this two-dimensional application of the two-dimensional theories .
+Now , once you do that , you get design blade geometry based on application of twodimensional blade theories , in which you had the velocity diagrams , the velocity vectors the cascade arrangements at each of these 31 stations and all of that put together , start giving you the blade geometry .
+So , you get the chord length which you , sometimes may need to make a choice ; it may not be an output , it may be your choice depending on the design that you are trying to accomplish .
+Then , the number of blades which come out of the cascade theory and you need to make the number of blades , round integer ; you cannot have fractions here .
+And , quite often , numbers of blades are decided in a judicious manner , not just a blind number that comes out of application of theory .
+And then , all the other parameters , the solidity , and then , of course , certain geometric or aerodynamic parameters like incidence ; then deviation , which is an aerodynamic parameter of the blade .
+And then , certain iterative procedure is built-in , in which you apply correction .
+And finally , you get the deviation , and then the camber of the blade at every section .
+As you can see , the camber of the blade changes from 35.8 to 15.4 over a length of one single blade ; so , one solid body of blade will have a 35.8 degree camber at the root and only 15.4 degree camber at the tip , and 20.7 at the mean , which I mentioned was designed first .
+So , this change of camber produces the variable geometry blade from root to tip , and of course , we can see that these are also staggered at various angles 7.9 or 8 degrees near the root and 46 degrees near the tip .
+So , that produces the twist of the blade .
+So , both the camber of the blade and the stagger of the blade vary substantially in a rotor from root to the tip , and that produces the twisted blade , and essentially , blade shape that varies substantially from root to tip .
+So , even , even in a standard design , you do have a large amount of change of blade shapes .
+So , final camber varies from 38.8 to 18.4 and final stagger , where all kinds of corrections are applied , varies from 12.8 to 46.2 ; so , that indeed would give you the twisted blade .
+Now , let us look at how the airfoils are indeed arranged .
+What is done is , you choose airfoils at various stations , arrange them from root to tip ; and these airfoils are chosen on the basis of the design that we just had a look at .
+So , each of these airfoils would have corresponding camber and each of these is set at a corresponding stagger , has comes out of that design exercise .
+Now , each of these airfoils , at this moment , are been set at a constant radius arrangement .
+Now , this is what we have done earlier ; which means , aerofoil is a constant radius ; aerofoil across the blade over here and that is what is been designed at the moment .
+So , you have a radius that is , r 1 here and r 1 2 here are same .
+So , this is what is been done at this moment of standard design procedure .
+The other thing that is normally done is the centroids of all these airfoils are stacked up in a radial manner ; so , they are all radically stacked .
+And , this radial tacking is a standard procedure , because it also scatters to minimal structural requirement ; that means , the blades , if they are radically stacked , actually produces minimal amount of structural loading , the bending and the other loadings .
+If they are off the centroid or off the radius , they produce much more bending load ; specially , as you know , when the blade is operational , the lift and the drag , essentially are active on the blade surfaces , and hence , radial stacking of the blades is a popular method by which normally standard design is done .
+So , you get a blade which finally has a flat aerofoil tip .
+The entire leading edge ; this is the leading edge ; and the entire leading edge is linear and normally in a smooth line .
+Most of the time , it could be linear or it could be slightly curved , but a smooth curve , a very smooth curve .
+The trailing edge is by design again , needs to be a smooth curve ; it may not be linear , it may be difficult to keep them linear .
+The trailing edge of the entire blade or the leading edge of the entire blade , you may try to keep one of them linear ; the other would almost invariably become slightly non-linear .
+Now , this is what a normal standard blade design would produce .
+So , this much of three-dimensionality is built into even a normal standard blade design .
+In today , we are going , today ’ s lecture , we are going to talk a little more about how deliberate further three-dimensionality is brought into the blade shaping .
+Now this comes out of the fact that we have just seen , we have created a flat tip .
+Now , flat tip has a problem ; the flat tip is inside a casing which is , you know , which is a curved casing now .
+Also , the flat tip is a stagger ; this airfoil is at of high stagger .
+As we have just seen , the stagger of the airfoils is the highest .
+Now , if you have a flat tip , that is stagger , and then you have a casing , which is a covering , shrove ; that is , invariably they are in compressors , the gap between the rotor and the casing from leading edge to trailing edge , then becomes a problem .
+Let us look at this picture and see what the problem is .
+You see , what happens is , the blade over here , see you have a flat tip , and then this flat tip needs to be , you know , covered with the casing , which is in variably , you know , curved casing ; and now , you have a situation , now this flat tip , we are looking at from a side , where this is staggered .
+So , this is at a stagger ; now , it creates what is can be simply called , divergent-convergent gap , tip gap from leading edge to trailing edge .
+So , so the tip gap is first divergent .
+So , at the mid chord , the tip gap is much more than at the leading edge and then it converges again to trailing edge to , lower tip gap .
+So , tip gap is highest at the mid chord .
+Now , this is a problem , because most of the tip flow from pressure side to section side , occurs through the middle of the chord , and as a result of this , this large tip gap at the mid chord , promotes large tip flow , and essentially , a large losses are accompanied in the compressor operation .
+Now , as a result of this , the tip loses the compressor efficiency , the tip related compressor stall or the instability becomes one of the big issues .
+Now , this indeed has been a big issue of the earlier compressor designs , because they were indeed susceptible to tip stall very easily , and one of the reason they are susceptible to tip stall is because this , that the tip gap was uneven and essentially was some kind of a divergent convergent gap , because of the use of flat airfoil at the tip , and the tip was amenable to early stall ; and then , of course , instability in the compressor .
+To get around this , what the compressor designers have started doing now , is they create a tip airfoil which is arranged on this three surface , which let us say , could be parallel to the casing curvature .
+So , first you need to figure out , after the blade has been primarily designed and the stagger is known , you can geometrically , from three-dimensional geometrical configuration , you can figure out exactly what this casing curvature is at that particular stagger and then try to mimic that casing curvature with a small gap to create the tip .
+This is the tip rounding that could possibly create a constant tip gap of the tip of the blade from leading edge to trailing edge .
+Now , that means , the tip airfoil is not a flat airfoil anymore , it is on a three-dimensional curved surface .
+Now , this is what modern designers have already started doing the result , is that , you get what is known as 3D airfoil .
+So , the airfoils by definition , over hundred years , were twodimensional entities ; now , suddenly they have become three-dimensional entities .
+You need to have 3D airfoils , and during this tip rounding , one of the things , the first modification of , let us say , earlier compressor design ; if you round out the tip , you may leave the other airfoils , you know , the flat airfoils that they were originally designed for , and only that tip airfoil is converted to a 3D airfoil and arranged or set at the tip to create , let us say , constant tip gap to get out of the tip flow related instability and stall problems .
+However , the more modern designers would like to see where all airfoils are essentially arranged in curvilinear surface .
+So , all the airfoils now , indeed all the way from root to tip , are three-dimensional airfoil .
+Now , geometrically you see it make sense , because , if you look at this picture , which we have seen before ; this is the meridian path that we have talked about and this meridian path shows that it is not constant radius , radius here and radius here are different .
+So , they are on a non-constant radius path from leading edge to trailing edge and quite often , they are on a curve path , slightly curvilinear meridian path ; near the tip , it may be a little flatter , but indeed they are curvilinear .
+And near the hub of a high pressure ratio compressor , it could be hugely curvilinear near the hub ; in which case , deploying flat airfoils over here is actually self-defeating , because the flow and the geometrical situation calls for use of three-dimensional airfoil or airfoil set on three-dimensional surface .
+Now , the other thing , quickly remember that always blades are on an annular space and they are arranged in a annular manner ; which means , that if you take a cut annular , cut on any section , even a mid-section , what you would get is a circle .
+So , the width-wise or laterally , the airfoils are also on a curved surface ; it is not on a flat surface .
+So , not only longitudinally from leading edge to trailing edge , but also laterally from one surface of the blade to the other , the blade is actually on a curved surface .
+Now , as a result of this , the blades actually have become highly three-dimensional and the blades need to be set now on cylindrical coordinate system , not just xyz coordinate system .
+So , setting the blade on a cylindrical coordinate system , so that they are arranged in a annular space , and then giving them a longitudinal curvature from leading edge to trailing edge creates , what is known as 3D airfoils and the modern designers have started using 3D airfoils , all the way from hub to the tip of the airfoil of the blade .
+So , you need to create all of those blade sections that we had design to begin with , let us say , 30 or 15 or 20 ; all of them would need to be now recreated with 3D airfoils .
+So , original 2D airfoils available from cascade data and design data bands would need to be reorganized and reshaped into three-dimensional airfoil entities for deployment on modern blade designs .
+Let us look at what happens to this 3D airfoil very quickly .
+If you create a 3D airfoil , you see , a flat airfoil is flat ; a 3D airfoil is been set on a curved surface .
+Also , once you create a 3D airfoil , it is indeed possible that the width-wise or the thickness-wise , distributionwise it will changed .
+So , the two-dimensional airfoil had some thickness distribution , the moment it is arranged in a three-dimensional space , the two-dimensional shape would have to be altered if one has to conserve the aero-dynamic performance parameters ; and as a result of which , it changes it is thickness or what is known as t by c distribution .
+Once that happens , you have a slightly different airfoil , and then the overall view , circumferential view ; you would get an airfoil , which is like this .
+So , this is your 3D airfoil , whereas a flat one would simply give you a straight line from the side view .
+So , this 3D airfoil needs to be created or recreated from an earlier 2D airfoil .
+So , this recreation process is often done with the help of CFD to begin with , and a lot of geometric modeling ; it is , it is sometime results in iterative process , so that you get a 3D airfoil which meets your aerodynamic requirements .
+So , what happens is , two-dimensional blade has a certain Cp distribution .
+We have looked ; we have had a looked at this kind of Cp distribution before .
+Moment you can change their blade and create it into a three-dimensional airfoil , this Cp distribution would change .
+Now , if you are happy with the earlier Cp distribution , which meets your aero-dynamic compression requirement ; to restore the Cp distribution on the blade shape , you would need to alter the 3D airfoil shape in such a manner , that you get this Cp distribution back on your 3D airfoil .
+So , this restoration of the original Cp shall require original airfoil shape to be altered , all the way from leading edge to trailing edge .
+The Cp distribution would have be altered substantially .
+Once you do that , you have all kinds of other possibilities .
+We have seen the blades are already twisted , we have seen blades already having varying camber from root to tip and we have seen they have differential stagger , substantially its different stager from root to tip .
+The next thing that modern designers trying to do , is use certain shapes like sweep , that has been used in aircraft wings for many , many years to gain certain benefit .
+Now , what happens is , the sweep definition that is used in blade shaping is essentially something like this ; that airfoils that has been created now , even after creating the 3D airfoils are shifted ; so , the stacking line is not radial .
+We have said that stacking line was radial ; even when we were creating 3D airfoils , the stacking line remain radial .
+Now , we are saying that the stacking line may be shifted and the shift of the stacking line from a purely radial direction creates the sweep .
+Typically , the sweep is observed at the leading edge ; of course , you can observe it at the trailing edge also , and this gives rise to the fact that the flow coming into the blade would meet the tip first and progressively lower down the blade , it will meet the other part of the blade later .
+Now , it is been observed very closely through CFD as well as through lot of actual tunnel rig testing , that the flow , when it is hits at tip first , actually traverse along the blade length and tends to have a inward flow , from the tip towards the midsection .
+This is a benefit because it uploads the tip ; it overloads the mid section , but creates the offloading of the tip section .
+So , the sweep that is created , it can be at the leading edge , it can be also at the trailing edge ; they may be differentially swept at the leading edge and at the trailing edge .
+Because , now , the stacking line is not radial over here ; the amount of sweep given over the length of blade can vary depending on the design .
+Sometimes , the entire blade can be swept , sometimes only a portion of the blade is swept ; it may be swept backward also , depending on the designers understanding of the three-dimensional aerodynamics of the flow and that comes out of CFD .
+So , large number of design is now , essentially back by CFD and this CFD gives you a first cut notion ; it is not the final thing , but it does give a very good first cut notion or what seems to be happening on the blade surface .
+And then , designer decides what kind of blade shaping he would like to prefer .
+So , the amount of sweep , the amount of portion of the blade that is to be swept , and of course the deployment of three-dimensional airfoil on these blades , essentially come out of large amount of iterative study between the designer and CFD analyst .
+So , this iteration between design and CFD analysis , actually have speeded up the design , substantially compared to the early days ; and as a result , we have far more complicated blade shapes these days , based on this kind of high curative design procedure .
+So , let us take a look at some more possibilities that do exist on the blade shape .
+The next possibility is the , what is known as leaned blade .
+In , for aircraft wing designer , this would be called a dihedral .
+So , dihedral , in addition to sweep or without sweep , can be imparted to the blade shape and these blades are often called leaned , because they lean from radial stacking , either to in the circumferential direction ; sweep , as you remember , the airfoils were shifted forward or backward .
+Now , the airfoils have been circumferentially shifted from the radial stacking , either on this side or on this side , and this creates the lean .
+So , this is the lean stacking line , over which the airfoils can be … So , this was the original stacking and then you have the airfoils now , leaned like this and these are the airfoils .
+So , leaned blade stacking is the other aspect of modern blade design , in addition or alternate to the sweep ; sweep or lean may appear together or they may appear separately .
+Many of the modern designs actually do have lean and sweep together in the modern blade shapes .
+So , this is typically a leaned blade and it creates , at the tip , a lean that is different from sweep and as a result of which the blade acquires a highly three-dimensional shape .
+The problem to the designer is , you have airfoils there , you still have airfoils ; and as a result of those airfoils , the moment you give that kind of shape , the intervening portion of the blade needs are interpolated geometrically through geometrical , three-dimensional geometric modeling .
+And then , often , when you give that kind of shape , it may get wrinkled ; the surface may not be smooth .
+You need to get smooth surface , you need to arrive back at the smooth surface ; blades have to have smooth surface on both sides .
+So , when people create this kind of complicated blade shapes , you remember , blades are already twisted , they already have differential camber , and now you are giving sweep , you are giving dihedral , so , the blade surface become wrinkled .
+So , those are the issues that the designers will have to solve .
+We can see here , some of the modern blades .
+These are indeed pictures of very modern compressor blades and we can see here , the leading edge is kind of curvilinear , certain amount of sweeps seems to have been given , which seems to be slightly backward swept over here .
+And then , of course , the blade is highly staggered , and as you can see here , it is rounded tip , which is of course a stator ; you could probably , you do not see it here very clearly , but the rotor would also have a rounded tip and the rotor trailing edge may be slightly swept forward .
+Now , we are seeing it from a side , so this is highly three-dimensional blade shape .
+We are actually not seeing the real blade-shape , we are seeing some kind of an angular side view .
+But , one can see that it is a highly three-dimensional blade shape , that we are looking at .
+If you look at the second rotor , you can see that the rotor is indeed carrying dihedral .
+So , not only they are swept , they the leading edge is curvilinear trailing edge is curvilinear and they evidently have certain amount of dihedral .
+Same goes for the stators , you can see the stator leading edge has certain kind of swept forward ; first it is straight , and then the leading edge is swept forward .
+On the other hand , trailing edge is more or less straight with the backward curvilinear sweep towards the trailing edge .
+If you look at the third rotor , it also has certain amount of dihedral and probably certain amount of sweep .
+So , all the three rotors , and indeed all the three stators , actually have highly threedimensional blade shapes , which is typical of modern axial flow compressors .
+So , that is the way a combination of aerodynamic analysis , geometric modeling , very intense amount of geometric model is required to get a smooth blade shape .
+Obviously , final aerodynamic of the blade would demand that you have absolutely smooth shape on both the suction and the pressure surface , from root to the tip of the blade .
+So , this is a first requirement of the final blade shape .
+So , through aerodynamic studies , through CFD and through intense geometric modeling , you need to create shapes that are finally , aerodynamically acceptable and would evidently or presumably create very good performance .
+On the other hand , they meet prime of certain structural requirements , so that the blades are not structurally highly stressed .
+And then , of course , you need to be able to fabricate those blades , they need to be fabricable .
+So , the fabrications state of art of the technology , would have to be deployed many of these blades as , you know , made of materials , which are titanium alloys and aluminum alloys ; and sometimes , towards the end of the multi-stage compressor made of steel .
+So , you have to be ensure , that these intricate shapes can be very accurately manufactured .
+If you cannot manufacture them , then there is no point designing them .
+So , your state of art of material science and state of art manufacturing technology have to be factored in during the design process .
+So , these are the issues that a modern designer would have to deal with , when he creates a modern axial flow compressor rotor and stator blade shape .
+Some very simple blade shapes that we can look at tell us , that you can have a fully slept blade like this or we can have predominately straight blade stacking .
+So , this is where you have a swept stacking .
+So , stacking is swept like this ; this is a straight stack blade and that is why it is called a straight blade .
+As you can see very well , it is actually a twisted blade ; it is no really a flat blade .
+So , it is not a flat blade , it is a straight radial stack blade .
+Whereas , this one is , stacking is curvilinear stacking ; so , that tells us what kind of difference comes about in the geometric modeling of the blades in modern axial flow compressors and axial flow fans .
+So , in summary , we can say , that the 3D blades are indeed developed or reconfigured or reshaped from earlier known two-dimensional airfoils , and then they are stacked by geometric modeling ; modern blades are not stacked radially anymore .
+These blades are subject to intense 3D CFD analysis under design operating conditions .
+Further modification of the blade shapes are done after studying the CFD results .
+So , if you have separation or deviation or related issues , the blade shapes would have to be very finely tuned to get out of those separation related problems , so that , under those situation , you have a stall or , you know , strong separation problems .
+Further blade optimization , quite often may be done for to gated to the off-design operating condition .
+All compressors would have to operate under off-design conditions , specially those which used in aero-engines .
+And , as a result of the off-design of for aero-designs is extremely important .
+So , some times , the blade shape is further optimized or redesigned or reshaped to gated to very good off-design operating efficiency .
+Otherwise , you may get a blade that is of very high design point efficiency , but may be poor in off-design .
+So , to counter that , many of the blade shapes are optimized to , gated to off-design operating conditions .
+So , this is the intense procedure by which blades are designed , you have to have the ... You still need certain amount of two-dimensional airfoil cascade data available with you , and when you put them together , you have a starting building block , then you have to start shaping your blade , you have to do intense three-dimensional CFD analysis , and then you have to do design point analysis , and then you have to start doing off-design analysis .
+When you put them all together , you have a blade that satisfies the requirements of the compression job that is being assigned to this blade under various operating conditions .
+Then , you have a blade that is good and it can go in a engine , that will go on an aircraft flying machine .
+So , these are the procedures for modern axial flow compressor and fan design .
+We have come to the end of compressor chapter in this course .
+Next lecture , we will be talking about a problem , that is , on noise .
+This noise is a major problem these days ; so , in the next lecture , we will look at the noise problem associated with compressor and fan operation ; specially the ones that have gone transonic and supersonic .
+And , we will look into how those noise problems are countered or tackled during the process of compressor design .
+So , we have come to the end of the design lecture , in which we have tackled the twodimensional design , we have tackled the three-dimensional design and it tells us that you have to go through a lot of process , iterative process by which you do the design .
+And the last thing that you would need to look at is , what we do in the next class ; that is , look at the noise problem .
+You have to design a compressor fan , which is not a noise making device , then it will not be certificated , it will not ever be used in an engine , it will never fly .
+So , design process would have to be finally ended by taking care of noise-related issues .
+We will do that in the next class .

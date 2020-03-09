@@ -1,0 +1,287 @@
+We have been talking about axial flow compressors , their fundamental theory .
+To some extent we have covered the ground on various aspects of three-dimensional flow through the axial flow compressors .
+In today ’ s class we will initiate some discussion on how these axial flow compressors are indeed , designed .
+We need to understand , that axial flow compressors are essentially , uniquely designed .
+They are not the kind of products , that you can buy off the shelf or they are not the kind of product you can easily create with the help of , you know , very simple hand books , design hands books .
+There are no , you know , design hand books or designing axial flow compressors and turbines .
+So , these are aerodynamic machines , as we have called them , and these aerodynamic machines are typically uniquely designed and created .
+So , every axial flow compressor in every aircraft engine is uniquely designed .
+There is almost no possibility , that one particular compressor from one engine can be used all over again in another engine .
+The possibility is extremely remote and normally it is not done , which means , that every time a new aircraft engine is created , a new gas turbine engine is created , the axial flow compressor inside that would need to be designed afresh , in fact , right from scratch .
+Now , this requires a lot of effort .
+In fact , it takes more time to design that part of the engine than indeed any other part of the engine .
+It takes more time to design a multistage axial flow compressor than any other component including commercial chain turbine or other components .
+So , it is a costly business , it is a time consuming business , it also requires a team of people , lot of people to work towards creating this new axial flow compressor unit and it requires a lot of effort .
+It is costly because it requires effort in terms of design , it requires effort in terms of computational analysis and then , it requires a lot of effort in terms of actual rig testing before it can be considered as a good enough peace of axial flow compressor for actual engine .
+So , lot of design analysis and testing is required before you can say , that a certain design is final and can go on an inside an engine .
+There is a lot of matching to be done afterwards when it has to go inside the engine , but that is a separate issue all together .
+So , the whole business of creating an axial flow compressor is a long grown out affair .
+It takes sometimes years for a team of highly qualified engineers with PhDs and Masters to create a multistage compressor .
+So , some of these things need to be understood , that the do come out of some of the theories , that we have done and we will try to encapsulate some of the things , that we have done in the last few classes into a first cut , a very simple methodology with which one can possibly create an axial flow compressor design .
+However , that is only the beginning , that is only the start of a long grown out of work , which would require a lot of people to work in it and a lot of time and effort to be spent in it , so that you have an axial flow compressor , that is comparative , that has good performance , good efficiency and matches with the other components of the engine , that is indeed , very important ; you have to match the compressor with other components of the engine .
+Now , some of these things we may be talking about in some of the other lectures , in this lecture series , but today we will be talking about a method or a methodology by which you can initiate or create a first-cut compressor design .
+So , over a period of 2 lectures I will try to bring to you , what fundamental theories can be used to create an axial flow compressor .
+So , we start with axial flow compressor design .
+Now , when we talk about design you need to understand , that design is something , which you undertake , essentially to create a product for a particular performance .
+Now , this performance is something , which you have to decide a priory .
+An engineering product is created to perform .
+In case of aerodynamic machines , like compressors and turbine , the performance schedule has to be very accurately pre-decided and design is accurately made to need that particular performance requirement .
+If the performance requirement is not accurately pre-created before the design is undertaken , the design process would be long grown out before you can finalize the design .
+So , it is necessary to create a performance schedule on which the design is to be created .
+Now , this performance schedule essentially is another issue , which we will be talking about a little in today ’ s lecture also , that you need to create , what in aircraft engine terminology is known as design point .
+An aircraft engine is designed to perform or give its performance at its best at its design point .
+Now , this design point has to be decided a priory .
+Is , it is something , lot of thinking , lot of parameters and lot of matching between aircraft and engine and various components of the engine have to be thought about before you can fix the so called design point .
+We shall see later on , that before the design is finalized , indeed we would need to think about how this particular component or the whole engine would behave under so called off design operating conditions because a typical aero-engine operates under many off design operating conditions .
+And if you do not take care of them to a large extent during the design process , some of the off design operating conditions may be very poorly performed , something which an aircraft engineer would not like to risk any more today .
+So , those are the issues that would come up before the design is indeed taken up .
+Let us look at what constitutes design .
+When we talk about design , there are two aspects that come into the design , one is creating the blade shapes , another is creating the compressor flow track shape .
+We will take up the flow track shape first and come to the blade shape design a little later .
+Now , we are talking about a multi-stage compressor , which by now , you know , actually is composed of a number of stages .
+So , the flow comes to the initial stages , gets compressed and as a result , you actually require less and less flow area for the flow to be processed and send backwards inside the engine .
+Now , this fundamental aerodynamic requirement born out of continuity equation requires that your flow track gets narrower and narrower as it goes through the compressors .
+So , it enters the flow into the compressor and as it gets compressed , it requires less and less area , and as a result of which you require much less area over here than at the entry .
+And now , these two ends ought to be decided first , what is the pressure ratio across the entire compressor that comes out of the initial engine analysis , the cycle analysis and the engine configuration , that has been decided upon and that engine configuration decision provides the initial compressor ratio .
+This compression ratio decides prima facie , what is the pressure ratio across this and hence , what could possibly be the density ratio across this .
+That mean pressure ratio and temperature ratio across the compressor are known and hence , density ratio can be found and that density ratio essentially , gives us prima facie , what should be the area ratio across this .
+Of course , assuming or considering , that mass flow is conserved , whatever mass of flow is coming in here , same mass would be going out of the compressor .
+Now , what happens is , this flow track is then decided by the step by step change in density .
+Density changes with the pressure and now , step by step change in density actually provides the flow areas required at various stations so that the annulus area required at any station is found out from the local density , which you can find out from the local pressure and temperature values .
+Now , to get the local temperature and pressure values , you need to know what is the step by step pressure ratio that is going through the multi-stage configuration .
+Now , to do that , the overall compressor that has come out of the overall engine design , now needs to be decomposed or split into so many stages .
+Now , that is one of the things , that needs to be done and once that is done , you can create the flow track .
+We will have a quick look at how to split an overall compressor into number of stages very shortly .
+We will quickly take a look at , if we have the number of stages decided priory , then how do you create the flow track and what kind of choices do you have ?
+Now , this first flow track , that we are looking at , is a flow track in which the tip diameter of the compressor is held constant and the hub diameter is allowed to change .
+As we can see here , the hub diameter has changed quite drastically in the initial part of the flow track .
+Now , this is typically done for high pressure ratio compressors in the initial stages of a multi-stage .
+So , all multi-stage compressors have high pressure ratio initial stages and the pressure ratios are much lower in the later stages .
+So , the flow track there is normally in or rather shallow or almost parallel to each other , whereas the flow track requirement in the initial stages requires a sharp change in area .
+Now , this sharp change area has to be smooth and this smooth flow track creation is one of the first things that a multi-stage compressor designer would need to create after creating the split in the stages .
+Now , the first choice , as we see , is where you keep the tip diameter constant and the hub diameter is made to change to effect the change of area of the flow .
+Now , this gives us a situation , where the U tip is maintained very high through the entire multi-stage configuration .
+The tip diameter being constant , the value of the tip blade velocity , U tip is held constant .
+And this allows the value of the work done by the various stages to be held more or less constant through the entire multi-stage configuration .
+Now , this is something , which people have done over the years because this is one of the things that allow you to give high U tip value and increasing U mean .
+Now , as the U mean is increasing , the mean work done through the stages also amenable to increase .
+So , you can increase the mean work done through the stages as you go towards the later stages , and as we know , in the early stages with modest amount of work input , you get a very high pressure ratio .
+In the later stages , even with high work input , your pressure ratio or pressure rise is going to be rather small .
+So , we would like to put a good amount of work through all the stages and increasing U mean is an attractive proposition .
+This particular change of flow track allows rapid change of density through the stages by changing the hub diameter and the tip diameter corresponds to , let us say , a high tip diameter that is allowed by the engine designer .
+Compressor designer would have to design his engine within the overall space allotted to him by the engine designer .
+And hence , the maximum size that is allowed by the engine is used for this particular compressor design in which the tip diameter is held constant .
+In the next choice , is exactly opposite where the hub diameter is being held constant and as a result of which the U mean , now you can see , is continuously decreasing through the stages .
+So , stages would have lesser and lesser work input as it goes towards the rear stages .
+So , you have high work input in the first stage and then , corresponding lesser and lesser work input through the rear stages .
+Now , this is sometimes done quite deliberately because if you are trying to put in a lot of work through the stages , as we know , the density changes very fast and the flow track area requirement would also go down very fast , which would mean , that the size of the blades , that you would need to put in rear stages , would go down very fast .
+Now , very small sized blades are not favored by the designers because they are amenable to aerodynamic flow distortions and loss of efficiency during actual operation .
+So , very small size blades are often , not favored design choice of the compressor designers .
+To avoid that situation , this is , one of the choices was , if you keep the hub diameter constant effectively , the compressor overall or mean diameter is being brought down .
+As a result of which the density change is much slower and as a result the size of the blades is , does not go down so fast and hence , reasonable blade span or blade length is arrived at y design , which is comfortable for the compressor designer and is not amenable to lot of loss of efficiency under various operating conditions .
+So , this is the other choice , which the compressor designer often uses and it is often used in the middle stages , as I mentioned , to avoid the blades going very small .
+The next choice , which is a kind of a very obvious mean choice , in which the mean diameter of the flow track is held constant , which of course means , that the U mean or the mean blade velocity of the rotors or various stages is held constant throughout all the stages .
+So , the mean work done or the average work done of all the stages , work done per unit mass flow , of all the stages is actually held constant .
+Now , this is , as I mentioned , a very simple and obvious choice of most designers and gives rise to a compressor , in which both the tip diameter and the hub diameter would have to be changed simultaneously .
+Now , it is entirely possible , that here , what I have shown is the hub and tip diameter are changing almost in a similar manner .
+That means the curvature of the tip and the curvature of the hub , that is shown here , are exactly mirror images of each other .
+On the other hand , it is entirely possible , that the modern designers would make a little diversion here and make a choice in which the curvature of the hub and the curvature created at the tip for the flow track are not exactly mirror image , they are different .
+And as a result , it is possible , that the mean diameter or the mean , U mean , the mean blade velocity would vary slightly through the stages and this is done deliberately by the modern designers to exert a little control over the change of density , that occur through the stages , which as I mentioned , allows them to control the size of the blades .
+The combination is , of course the choice of the modern designers , where in the initial stages you have the hub diameter going down very fast and in the later stages , you have the tip diameter going down and as a result of which , their later stages , the blades sizes are not very small .
+If this had continued to go up like this , the size of the last stage blades would have been extremely small because they would be operating at very high U mean , and as a result of which they would require a very small blade size .
+And the flow track annulus area would be very small and that would something , which the compressor designer would not like to favor because two small blades , in terms of blade length , is something , as I mentioned , quite often creates aerodynamic efficiency penalties .
+So , this combination is to avoid the fact , that the blade size towards the end is not very small , it is little more than very small ones and as a result , you have a control by creating this combination , you control the size of the blades .
+Now , in a multi-stage environment , this combination also allows , that this front part in which the hub is changing may be one spool of the compressor and the 2nd part could be the 2nd spool of the compressor and the intervening duct would have this kind of shape .
+We shall see later on , that is quite often the done thing that this combination is indeed used to , for a multi-spool , multi-stage axial flow compressor design .
+So , many of these variance of these four shapes , that we have seen , are quite often used in actual multi-stage compressor design , many of which are indeed multi-spool .
+So , these compressor stages , then actually are arrived at , from the mass flow and the continuity applied , to the local flow through the stages .
+The split of the stages , we will be talking about a little later today , allow you to calculate the annulus areas at various stations and then create the flow track .
+Now , you see , when you just calculate the flow areas and put them together one after another , the flow track need not really be smooth .
+It is entirely possible , that you arrive at a flow track just putting all the areas one after another or various stages after the rotor , after the stator and after the rotor and stator and so on and so forth .
+You might get a flow track , which is not smooth , it may be zigzag .
+Now , that is a flow track that is not expectable ; flow track has to be smooth , it has to have a smooth , aerodynamic flow from the 1st stage to last stage of the axial flow compressor .
+So , not only you have to create the work distribution of the stages , you also have to recreate the work distribution in a manner , that the density variation , that you get actually , finally , gives you flow track , that is smooth .
+Until you get a very smooth flow track , your design is not complete .
+So , a multi-stage compressor designer finally , has to create a smooth flow track .
+In creating very smooth flow track , the fluid flow equations would have to be used and the compressor work distribution , the pressure issue distribution , the sizes of the compressors would have to be moderated in a manner , that finally , you have a smooth flow track in which all the blades are very nicely fitted in a manner , that , that they actually give very high efficiency performance .
+The other business , which quite often is done is , as I was mentioning just a little while ago , that in multi-stage compressor , you also have multi-spool .
+You have the high pressure spool and then , you have the low pressure spool in front of it .
+In between these two spools , quite often you have , what is known as an inter-spool duct .
+Now , this inter-spool duct , during which there is no compression flow , is going from , high , low pressure spool to high pressure spool and then , this passage has to be done smoothly .
+It also needs to be done in a manner , such that the entry to the high pressure spool , this is not only smooth , but it provides a uniform flow into the high pressure spool 1st stage .
+That means , as far as possible , the uniformity of the flow needs to be restored , which may not be true when it is coming out of the low pressure last stage .
+The flow may be , you know , having an old component or a rating component ; the pressure distribution along the length of the blade may not be , you know , uniform .
+There are many such nonuniformities with which the flow comes out of the low pressure spool , the intervening duct .
+Now , the , the inter-spool duct has a job , as far as possible , to restore uniformity of the flow before feeding it into the high pressure spool and this is something , which the flow track designer has to achieve by designing the flow track .
+So , the flow track design has a number of responsibilities actually , to discharge in creating a multi-stage , axial flow compressor flow track design .
+Many of these modern flow track designs would indeed , not only require design of the various stages quite often , as I mentioned .
+You may have to redesign and re redesign those stages to create a smooth flow track , to fit into a smooth flow track .
+So , it is an iterative design process of various stages ; till that process is over you do not get into individual blade design .
+So , individual blade design of rotor , stators , come only after this multi-stage configuration has been finalized and completed .
+Now , to do that , many of the modern designers also use computational flow dynamics because rig testing is often very costly and that can happen only after all the stages are designed and fabricated and put on the rig , which is a very costly affair and time consuming affair .
+Much before all that , you can have a computational flow dynamics to aid the process of flow track design , to aid the process of compressor design .
+So , quite often , many of the modern designs are indeed aided by computational flow dynamics or CFD towards creating the final flow track shape .
+Now , some of these things are initially created with the help of some very simple considerations .
+So , what we are looking at is a simple conical annulus track .
+So , the track is annulus , if you remember .
+However , the construction of the track can be considered to begin with a conical one .
+Now , we have seen , this cone can be a curvilinear cone of various kinds that we have just seen .
+If we just consider it as a simple conical flow track , a very simple mathematical expression can be used to capture this conical , linear conical flow track .
+Now , what happens is , simple fluid mechanics or aerodynamics would tell you , that you would like to restrict this angle of this flow track of angle of this cone to certain values , which could be definitely less than , may be , 10 degrees at any point , at that time , or any , any , any point on the space in that compressor flow track .
+Normally , it may be of the order of 6 to 8 degrees , modern designers are trying to go to higher values .
+If we go to the earlier flow tracks , that we had a look at , if you look at this flow track , you would see that in the initial stages this curvature would seem to be giving you a flow track angle of a much higher order .
+However , if you come very close and take a very close look at the change of angle of the flow track from one point to another , between two very nearby elements , you will probably find , that the change of angle between , let us say , this point and this point is indeed actually very small .
+So , a bit by bit in a curvilinear manner , a lot of change of angle has been effected in this particular design , but a very small angular change is theoretically possible through the flow track , if one considers fundamental aerodynamic .
+So , this is a very simple , you know , theory , which people often check out to ensure , that at , at no point of time you are violating the fundamental aerodynamic principles and the checks and the limitations , that need to be kept in mind while you are designing this modern axial flow compressors .
+If you look at this very modern axial flow compressor design , you would see what I was talking about .
+In the initial stages you have a flow track that is very rapidly changing through the stages ; you have a rotor , stator , rotor , stator , rotor , stator .
+So , it is a 3 stage low spool , low pressure , high compressor spool , which allows the flow to flow into the high , high pressure spool , which comes later on , which is a 6 stage high pressure compressor .
+And as we can see , the flow track here has rapidly changed because of large amount of work that has been pumped into the flow and rapid change in density .
+And then , the flow is compressed and it is again ducked into the high pressure spool .
+As I was mentioning quite often , the high pressure spool is at a lower average radius than the average radius or diameter of the high pressure spool .
+So , the U mean in the high pressure spool is much lower than the U mean of the low pressure spool and of course , the U tip of the low pressure spool , to begin with , is very high .
+The U tip here is continuously , go down , going down , as we can see .
+Now , high pressure spool , here is , where both the tip and the hub diameters are changing almost linearly towards the end of the high pressure spool .
+Whereas , here , they are changing in a curvilinear manner and the change at the hub end is much faster and the change at the tip end is much shallower , but it is changing at both the casing and at the hub .
+And by the time it hits the 3rd stage of the low pressure compressor , the flow needs to be now ducted inwards into the high pressure spool and hence , the tip actually starts coming down and the hub also starts coming down .
+So , the flow track here , first taken a downward turn because the flow now has to be sent downward into the high pressure spool and of course , this is a low bypass engine .
+So , small amount of air would go bypass into the bypass duct .
+So , this is a modern axial flow compressor , flow track design , which as you can see has used the concepts , that we were talking about a little earlier , but used them in a very clever manner to create a modern two spool , multi-stage compressor configuration .
+Now , we come to the fact , that to create a compressor you need to fix the design point .
+Now , design point fixation is often done on the basis of a number of parameters .
+We will look at the compressor characteristic map , which you have done before in the characteristic map .
+If you remember , a functional relationship was established between the performance parameter , which is the pressure ratio .
+The efficiency and the temperature change , that occurs through the compressor , which is a measure of the work done normalized by the entry temperature .
+Now , these performance parameters are connected to the , functionally connected to the various flow parameters , which is the mass flow parameter , which we have said earlier , is a normalized mass flow parameter , the Reynolds number of the flow and the normalized speed of the rotors , that are being utilized inside the compressors .
+So , these parameters on the right hand side are not really non-dimensional parameters .
+So , we call them normalized parameters because actual non-dimensional parameters are not very useful , in the sense , they carry some parameters , which are dimensionally to be fixed by design and at this stage of design , they are not yet fixed .
+So , we consider the parameters , which are not non-dimensional , but normalized and are useful for characterization of compressors .
+So , this is the kind of compressor characteristic , that you have done before and we will take a quick look at this characteristic map .
+Now , this line , that you see , is the characteristic of the compressor at its so called design speed .
+Design speed is given by , in by rotor over T 01 and this end is the end design .
+Now , this has to be decided as quickly as possible , what should be the design speed of the compressor and then , you quickly arrive at this non-dimensional design speed .
+Then , the characteristic of this compressor needs to be decided upon .
+The first-cut characteristic , that you get , may not be the final characteristics because that you would get only after the compressor design has been completed .
+So , you have a provisional characteristic map , that may come out of the engine overall design and that give some idea about what kind of characteristic map the overall compressor should have , so that you can initiate the design process .
+At the end of the compressor design , you would create a more detailed characteristic map out of various theory and CFD , that is available and that could be used as the design map , till the compressor is tested on the rig .
+Once the compressor is tested on the rig , you get the actual design characteristic map of the compressor that has been created .
+So , this map design map is provisional one to begin with .
+Now , you need to fix the design point .
+Now , you can see here , there is a problem .
+The problem is a typical axial flow compressor , as we have done before , has a peak pressure ratio , some are over here and immediately flowing the peak pressure ratio .
+That means , if you somehow total the mass flow , the mass flow comes down a little , the compressor would have a tendency to go to stall and it could become uncontrollable stall into search .
+Now , that is not an area where your compressor should be working .
+On the other hand , if the compressor works at a higher mass flow on the right hand side of this characteristic map , it would be working at a lower pressure ratio .
+Now , as far as the engine is concerned , higher the pressure ratio more is the engine efficiency .
+The basic thermodynamic efficiency of the engine is directly related to the compression ratio .
+So , higher the pressure ratio , operative pressure ratio , higher is the operative efficiency of the engine and this is true for all kinds of heat engines .
+So , you would like to peg your design point at a higher pressure ratio with the provision that the compressor would work under higher mass flows , where you would get lower pressure ratios .
+If such a working operating point is accepted for a particular engine operation or the engine aircraft operation , that is fine and you can make the compressor work under such a condition .
+Let us say such a condition is 0.5 , where you are working at a higher mass flow of the engine , through the engine , but it is working at a lower pressure ratio .
+Typically , 0.5 could be representative of the aircraft cruise operation condition .
+When the aircraft is cruising at very high altitude , the compressor is often working at a higher throttle , open higher throttle , at which the non-dimensional mass flow is little on the higher side and the necessary pressure ratio is on the higher side because at high altitude , you can manage with low thrust creation .
+But your design needs to be done for high pressure ratios .
+Now , if you peg the design point over here , at a higher pressure ratio , so that it can produce a little higher pressure ratio if required , which may be required during takeoff or cline .
+You cannot work at low pressure ratio during takeoff and cline under those situations .
+You have a little problem over here at hand , if the pressure ratio is pushed to higher values , you can do so only by throttling the mass flow to lower values and if you throttle the mass flow to lower values , this compressor is liable to go into stall .
+Now , this difference between the maximum pressure point 2 and the design point 3 is popularly or is generally known as stall margin , which you have done before in our lectures .
+This stall margin , by design , needs to be comfortable to the operation of the engine .
+The modern designers would like to make it as high as possible .
+If the design pressure ratio can be pushed as high as possible , so that by design you create a stall margin , so creating a stall margin , where the stall is and where the design is , design point operation is , is indeed decided by the designer .
+This stall margin creation is , is the designers job .
+It is , it does not happen , it is not be decided by the operator , it is not to be left later on to be decided by operational schedule , it is built into the design of the compressor , it has to be designed in .
+So , stall margin is something , that has to be designed in and that makes the choice of design point a little more difficult .
+You know , that you have to create so much of stall margin , which is indeed safety margin of operation of the compressor and indeed , that of the whole engine .
+Because if the compressor stalls , the whole engine is stalled , this is a problem .
+This is a problem , which the compressor designer has to deal with right in the beginning , throughout the compressor design , that at no point of operation of the compressor of the engine , the compressor should stall because if it stalls , the engine is gone and this stall margin has to be created .
+As we shall see later on , that this stall margin has to be created for each stage design of the compressor because you would actually create a similar compressor characteristic for each stage .
+If you have 10 stage compressor , we just saw a 9 stage compressor , 3 low spool and 6 high pressure compressor , each of those 9 stages has a characteristic map like this and each of these , those stages would have to have a comfortable stall margin of its own .
+All 9 stages together , the entire low pressure spool together .
+the entire high pressure spool together would have a stall margin of its own .
+So , you can have overall stall margin of the entire compressor , you can have a stall margin of only the low pressure spool , you can have stall margin of only the high pressure spool , you can have stall margin of each of those 9 stages and they have to be designed in .
+They are not going to happen , you are not going to leave it just to happen , they have to be designed in and that is the designer ’ s one of the tricky and rather challenging jobs of the compressor designer .
+So , finding the design point is one of the tricky design decisions that need to be taken early on in the design .
+Sometimes you may have the latitude to change the design point a little , but not much .
+When you are putting all the compressors together , slight change in the design point may have to be adopted to get the final design , but not much .
+So , choice of the design point is a tricky business .
+Then , we come to the fixing of the initial design point parameters .
+What needs to be done is , as I was just mentioning , that the entire multi-stage compressor needs to be split up in individual stages .
+To begin with , it needs to be split up , may be in to 2 spools or 3 spools ; in many modern axial flow compressors are actually 3 spools .
+So , you have to decide what the spools would do ?
+How much the spools should perform ?
+And then , you need to decide what the individual stages should perform here ?
+I have just tried to give a very , you know , rough estimate or rough kind of numbers , figures , that would allow the initial choice of the kind of performances , that you can ascribe or prescribe for individual stages of a multi-stage compressor .
+Now , these numbers are decided by the state of art of the design of these compressors .
+You see , the state of art is decided by the design methodology that has been developed where we are today .
+We have talked about subsonic transonic compressors ; most aeroengines today do not use supersonic compressors .
+So , that state of art of the compressor design has to be used to get these numbers when you are initiating the design process .
+During the research , which you have to do to create this design , you may try to push this design numbers to somewhat higher values , in terms of pressure ratio or efficiency .
+However , that is going to be normally marginal .
+So , I have tried to give some numbers here that gives you some idea , which means , in the initial stages , you can actually get pressure ratios of the order of 1.4 to 1.8 by putting in substantial amount of work .
+The temperature rise , that is shown here , is of course the measure of the work to be done .
+delta t into CP is the per unit mass flow work done and the efficiency , I have shown here , is of the order of 0.6 to 0.7 .
+You may like to push it to a little higher , may be difficult , if the initial stages are transonic .
+Most of the modern aero-engine 1st stages are transonic .
+Once you have transonic , as you have seen in earlier lectures , you have shocks and the shock losses bring down the efficiency a little , and as a result of which the efficiency of the initial stage are often a cut or two below the efficiencies , that are possible with the subsonic stages .
+In the middle stages , the modern axial flow compressors have indeed put their efficiencies to very high values .
+If they are subsonic , you can indeed get efficiencies of the order of the 92 percent .
+If they are subsonic , you may have to go below 90 , 89 percent or 90 percent at the most , or 88 percent .
+Now , in the middle stages , your efficiencies are normally a little on the higher side compared to the initial stages , and one of the reasons is , in the initial stages , the flow often admits flow through the intake , which has invariably certain amount of non-uniformity or certain amount of unexpected non-uniformity .
+This is catered to by the design and if you do that , you pay a very small penalty in the design efficiency , so that under non-uniform inlet flow operating conditions , the efficiency of the initial stages do not drop very much .
+So , to cater to such off-design vagaries of axial flow compressor operation , the efficiency of the design point is sacrificed a little .
+This is a premeditated sacrifice , it is done deliberately by the compressor designers and it is a well sacrificed , you know , choice , because under various off-design operations , you still get good efficiencies of the order of 84 , 85 percent .
+This is a good compromise ; however , in the middle stages , you do not have those problems .
+The initial stages actually act almost like a filter .
+So , the non-uniformities go away and the flow deliver to the middle stages are often very uniform and hence , in the middle stages , you can aspire and prepare to design compressors are very high efficiencies of the order of 91 , 92 percent .
+In the last stages , what happens is , the blades , as you have seen , become very small .
+When the blades are very small , the three-dimensional flow that we have discussed earlier in this lecture series engulfs the entire blade .
+And when that happens , many of the two-dimensional airfoil theories , that we have discussed , do not really operate that way and hence , the efficiency of the compressors suffers a little .
+So , the aerodynamic efficiency of the compressors , aerodynamic losses actually go up and hence , it shows up in the efficiency and hence , the last stage efficiencies are not as good as the middle stage efficiencies .
+So , they are a cut or two below the middle stage efficiencies .
+As we can see , the pressure ratio keeps going down through the stages , in initial stages is very high ; middle stages , it is low , down , and then in the last stages , it is very low .
+No matter how much work you try to pump in , the flow is already at a very high pressure , very high temperature and indeed very high density .
+So , from the fundamental thermodynamics on aerothermodynamics , you know that working at very high pressure and temperature , you can only affect very small change in density .
+So , that is what happens in the last stages .
+So , the work done in the last stages is deliberately kept on the lower side because you are not going to much profit out of pumping in lot of work and hence , the work done is somewhat on the compromise side .
+Even to get that you have to actually put in a lot of work .
+So , the last stages are normally the higher pressure spool , the high pressure stages , which normally , as we know , ran at high speeds .
+So , this initial parameter fixing essentially requires you to fix from continuity the mass flow that goes to the compressors .
+Factor of change of mass flow may be taken between HPC and LPT if you are catering to cooling of turbine .
+So , some amount of mass flow may be taken out and of course , fuel is pumped into the turbine .
+So , different between turbine mass flow and compressor mass flow has to be factored into the design .
+And then , from work balance you decide what the compressor mass flow should be between the turbine work and the compressor work and this is to be done separately for LPC and LPT .
+And then , of course , you get the split between the fan and the HPC and as a result of which you get the bypass ratio and then , you get the rotating speeds of the fan , the LP and the HP spools .
+These , of course , mean that the compressor of fan speed has to be the same order as the turbine speed .
+So , that something , which again has to come out matching between the turbine and the compressor and the power balance between the compressor and turbine fixes the compressor work , that has to be done .
+Of course , there are efficiencies of the turbine , efficiencies of the compressor and the mechanical efficiency of the shaft that comes into the picture in deciding how much work the compressor should do .
+Having obtained this , you can now decide the amount of work to be done for the rotor of the , individual rotor , individual stages .
+There are a certain parameters that normally we talk about .
+The axial velocity is often normalized into what is known as flow coefficient phi and this is normally kept less than 1 .
+These are figures that people have used over many , many years .
+So , actual velocity by U is normally less than 1 ; the work done , that is being performed again is normalized by U square .
+In some books it may be written as 2 U square and this gives us psi , which is the work done coefficient and this work done coefficient is normally of the order of 0.5 or lesser .
+In conventional compressors , in modern compressors , this is being pushed to higher values of the order 0.7 or 0.8 .
+So , the actual work done on the compressor on individual stages is decided by first deciding on the work done factor of the individual stages in the radial gap , that you can keep for the individual stages depending on which stage you are considering .
+As we know , the radial gap in the last stages have to be , you know , a little more than actually of the same order as the initial stages in terms of , it is called , it is higher .
+So , some of those things would have to be decided as we go along and then , of course , the fan loss , that occurs in big fans , all that put together gives you some idea as a first cut idea .
+What , what should be the work done or work supplied to the compressor compared to the amount of theoretical work that the compressor needs to do from the fundamental two-dimensional blade theory .
+Having decided this , you have to decide quickly the work done factor .
+As we see , the work done factor goes down with the number of the stages .
+The first stage ’ s work done factor is very high , in the later stages , the flow is three-dimensional and the work done factor is often somewhat on the lower stage , lower values .
+So , that has to be also decided .
+These are pre-decided by the designer from earlier experiences or earlier data that is available with the particular design group .
+And then , of course you need to fix the initial parameters that mean , the work to be done by the individuals stages .
+A conventional method is , if you have in a subsonic stage , you can try to pump in certain amount of work ; if it is transonic stage you can pump in certain amount of work .
+So , the different between the work you can pump in for a transonic stage and then of the , transonic , subsonic stage are slightly different .
+Once you decide , that how much work you can possibly do stage by stage , then you can get the number of stages .
+So , Z here is a first cord value of the number of stages of a multi-stage actual flow compressor that allows you to arrange the stages and then try to design the flow track .
+Now , you can go back and try to design your flow track , so that you get a smooth flow track to begin with , of course , you may have to come back here .
+If these stages are redesigned or re redesigned due to many other reasons , then the flow track would have to be re smoothened back into a final smooth shape .
+So , these initial parameters are fixed by deciding on the work done , the efficiencies of the individual stages .
+And to make sure , that you have correct distributions , the pressure ratio of all the stages put together must , of course , give you the overall pressure ratio given by the engine designer .
+The density variation and the annulus area variation gives you the flow track , which we talked about earlier and this , of course , from fundamental aerothermodynamics and this annulus area ’ s variation has to be kept smooth .
+This , sometimes the axial velocity for the design may have to be used as a moderative parameter to give you the smooth flow track .
+So , actual velocity is something , which the designer may use ; he may held it back and use it for design later on to moderate and get a smooth flow track .
+So , this is how you get a first cut actual flow compressor configuration and its distribution and its first cut smooth flow over a multi-stage configuration .
+In the next , we will get into blade design , we will look at using the blade fixing , the design point fixing , that we have done in this class .
+We will get into individual blade design methodology , this is what we will doing in the next class , where you will be attempting to tell you how to design rotors and stators of individual stages of a multi stage actual flow compressor .
